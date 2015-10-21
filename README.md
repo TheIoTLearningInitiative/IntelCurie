@@ -1,4 +1,4 @@
 Intel Curie
 ==
 
-- https://www.arduino.cc/en/Main/ArduinoBoard101
+- [Arduino 101](https://www.arduino.cc/en/Main/ArduinoBoard101)
