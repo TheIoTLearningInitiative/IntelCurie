@@ -10,3 +10,4 @@ Key Features
 - 6-axis combo sensor with accelerometer and gyroscope
 - Battery charging circuitry (PMIC)
 
+- [Intel® Quark™ SOC Product Brief](http://www.intel.com/content/www/us/en/intelligent-systems/quark/quark-x1000-product-brief.html)
