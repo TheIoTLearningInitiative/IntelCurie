@@ -12,6 +12,8 @@ Key Features
 
 ## Arduino
 
+## Intel
+
 - [Intel® Quark™ SOC Product Brief](http://www.intel.com/content/www/us/en/intelligent-systems/quark/quark-x1000-product-brief.html)
 - [Arduino 101 Intel® Curie™ Homepage](https://www.arduino.cc/en/Main/ArduinoBoard101)
 - [Arduino 101 Intel® Curie™ Getting Started](https://www.arduino.cc/en/Guide/Arduino101)
