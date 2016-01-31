@@ -1,7 +1,7 @@
 Hardware
 ==
 
-## 
+## Bosch BMI160 Inertial Measurement Unit
 
 ## Nordic nRF51822
 
