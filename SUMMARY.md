@@ -3,5 +3,5 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
 * [Getting Started](documentation/GettingStarted.md)
-* Hardware
+* [Hardware](documentation/Hardware.md)
 
