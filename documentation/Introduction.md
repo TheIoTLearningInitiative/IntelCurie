@@ -1,7 +1,5 @@
 <center><h1><b>Experiment, Make, Innovate</b></h1></center>
 
-
-
 - Python Programming Language
 - Python Libraries
 - Sensors using Network
