@@ -16,7 +16,6 @@ Key Features
 - [Arduino 101 Intel® Curie™ Getting Started](https://www.arduino.cc/en/Guide/Arduino101)
 
 ## Intel
-
 - [Intel® Quark™ SOC Product Brief](http://www.intel.com/content/www/us/en/intelligent-systems/quark/quark-x1000-product-brief.html)
 - [Intel® Curie™](http://www.intel.com/content/www/us/en/wearables/wearable-soc.html)
 - [Intel® Curie™ Review](http://www.anandtech.com/show/8848/intel-announces-curie-tiny-module-for-wearables)
