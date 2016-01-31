@@ -3,7 +3,7 @@ Hardware
 
 ## Bosch BMI160 Inertial Measurement Unit
 
-
+- [](http://www.mouser.mx/ds/2/621/BMI160_Flyer-534663.pdf)
 
 ## Nordic nRF51822
 
