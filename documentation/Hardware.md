@@ -3,6 +3,8 @@ Hardware
 
 ## Bosch BMI160 Inertial Measurement Unit
 
+
+
 ## Nordic nRF51822
 
 > Bluetooth Smart and 2.4GHz
