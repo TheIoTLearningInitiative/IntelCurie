@@ -28,3 +28,5 @@ and easy identification of actions and motions
 
 ## Enhanced Privacy Identification (EPID) technology
 
+> Help secure an increasingly smart and connected world
+
