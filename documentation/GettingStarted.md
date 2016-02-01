@@ -36,3 +36,4 @@ and easy identification of actions and motions
 
 ## Intel® IQ Software Kits
 
+Intel® IQ Software Kits combine algorithms, device software, application and cloud software to help customers incorporate advanced functionality into their wearable designs and provide a user experience that offers greater utility and value. 
