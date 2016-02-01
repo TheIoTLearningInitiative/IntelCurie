@@ -13,6 +13,8 @@ Hardware
 - [Intel® Quark™ SE Microcontroller Product Brief](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/se-soc/quark-se-soc-product-brief.html)
 - [Intel® Quark™ SE Microcontroller Datasheet](http://www.intel.com/content/www/us/en/secure/embedded/nda/products/quark/mcu/quark-se-soc-datasheet.html)
 
+## Sensors Subsystem
+
 ## Bosch BMI160 Inertial Measurement Unit
 
 > The BMI160 is a small, low-power, low-noise 16 bit Inertial Measurement Unit designed for use in mobile applications such as augmented reality or indoor navigation which require highly accurate, real-time sensor
