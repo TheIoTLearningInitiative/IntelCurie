@@ -30,3 +30,4 @@ and easy identification of actions and motions
 
 > Help secure an increasingly smart and connected world
 
+- [EPID Intel News Fact Sheet](http://download.intel.com/newsroom/kits/idf/2015_fall/pdfs/Intel_EPID_Fact_Sheet.pdf)
