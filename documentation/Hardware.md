@@ -7,7 +7,7 @@ Hardware
 
 > The Intel® Quark™ SE microcontroller brings intelligent power to the edge by combining a microcontroller with an onboard sensor subsystem to manage power consumption through programmable wake cues. Intel® Quark™ SE microcontroller also features pattern matching technology engine that allows it to learn and differentiate. The result is always-sensing intelligence, bringing real time response down to the next generation of intelligent devices. 
 
-http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/se-soc/overview.html
+- [Intel® Quark™ SE Microcontroller Get Started](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/se-soc/overview.html)
 
 ## Bosch BMI160 Inertial Measurement Unit
 
