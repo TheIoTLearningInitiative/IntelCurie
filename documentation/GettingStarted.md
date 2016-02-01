@@ -27,3 +27,4 @@ and easy identification of actions and motions
 - [Intel® Curie™ Fact Sheet](http://download.intel.com/newsroom/kits/ces/2015/pdfs/Intel_CURIE_Module_Factsheet.pdf)
 
 ## Enhanced Privacy Identification (EPID) technology
+
