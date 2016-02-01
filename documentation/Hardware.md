@@ -9,6 +9,7 @@ Hardware
 
 - [Intel® Quark™ SE Microcontroller Get Started](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/se-soc/overview.html)
 - [Intel® Quark™ SE Microcontroller Product Brief](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/se-soc/quark-se-soc-product-brief.html)
+- []()
 
 ## Bosch BMI160 Inertial Measurement Unit
 
