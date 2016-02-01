@@ -33,3 +33,6 @@ and easy identification of actions and motions
 > Intel’s EPID technology provides an “on-ramp” designed to help devices securely connect to the Intel® IoT Platform. Intel’s EPID hardware-enforced integrity provides fixed device identity in a manner that is compatible with existing ISO and TCG standards, and helps protect privacy with sophisticated anonymity technology
 
 - [Intel EPID Fact Sheet](http://download.intel.com/newsroom/kits/idf/2015_fall/pdfs/Intel_EPID_Fact_Sheet.pdf)
+
+## Intel® IQ Software Kits
+
