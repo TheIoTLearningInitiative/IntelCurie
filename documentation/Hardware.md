@@ -17,7 +17,9 @@ Hardware
 
 > 32-bit DSP core @ 32 MHz, Supporting ARCv2 ISA and floating point unit, 8 KB instruction cache, 2-way associative, 8 KB DCCM
 
-## 
+## Pattern-Matching Accelerator
+
+> Hardware pattern recognition IP, 128 neurons with 128 components per neuron
 
 ## Bosch BMI160 Inertial Measurement Unit
 
