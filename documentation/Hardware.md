@@ -15,7 +15,7 @@ Hardware
 
 ## Sensors Subsystem
 
-
+> 32-bit DSP core @ 32 MHz, Supporting ARCv2 ISA and floating point unit, 8 KB instruction cache, 2-way associative, 8 KB DCCM
 
 ## Bosch BMI160 Inertial Measurement Unit
 
