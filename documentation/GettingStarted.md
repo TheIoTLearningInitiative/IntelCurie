@@ -1,6 +1,9 @@
 Getting Started
 ==
 
+> Unleashing a Low-Power Hardware Module for Wearable and Other Consumer
+and Industrial Edge Devices
+
 Key Features
 
 - A low-power, 32-bit Intel® Quark™ SE SoC
