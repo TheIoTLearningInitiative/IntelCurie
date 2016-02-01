@@ -3,6 +3,9 @@ Hardware
 
 ## Bosch BMI160 Inertial Measurement Unit
 
+> The BMI160 is a small, low-power, low-noise 16 bit Inertial Measurement Unit designed for use in mobile applications such as augmented reality or indoor navigation which require highly accurate, real-time sensor
+data. 
+
 - [Bosch BMI160 Datasheet](http://www.mouser.mx/ds/2/621/BMI160_Flyer-534663.pdf)
 
 ## Nordic nRF51822
