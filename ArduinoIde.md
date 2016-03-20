@@ -1,7 +1,7 @@
 Arduino IDE
 ==
 
-
+Arduino 101 when connected to Linux host
 
 ```sh
     user@host:~$ dmesg
@@ -13,6 +13,8 @@ Arduino IDE
     [47508.121062] usb 5-2: Manufacturer: Intel
     [47508.121064] usb 5-2: SerialNumber: AE6642SQ54700DQ
 ```
+
+
 
 ```sh
 Sketch uses 29,529 bytes (15%) of program storage space. Maximum is 196,608 bytes.
