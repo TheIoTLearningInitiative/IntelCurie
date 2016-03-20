@@ -46,3 +46,5 @@ data.
 > 3-17V 1A Step-Down Converter in 3x3 QFN Package
 
 > The TPS6215X family is an easy to use synchronous step down DC-DC converter optimized for applications with high power density.
+
+[TPS62153RGT Datasheet](http://www.alldatasheet.com/datasheet-pdf/pdf/464053/TI1/TPS62153RGT.html)
