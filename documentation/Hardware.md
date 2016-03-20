@@ -37,4 +37,4 @@ data.
 
 - [Nordic nRF51822 Product Page](https://www.nordicsemi.com/eng/Products/Bluetooth-Smart-Bluetooth-low-energy/nRF51822)
 
-## TPS62153RGT Datasheet (PDF) - Texas Instruments
+## Texas Instruments TPS62153RGT
