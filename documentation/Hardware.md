@@ -53,6 +53,6 @@ data.
 
 ## Power Input Select
 
-### R3119N050A 36V INPUT VOLTAGE DETECTOR 
+### R3119N050A 36V Input Voltage Detector 
 
 [R3119N050A Datasheet](http://www.opendatasheets.com/datasheet/r3119n050a-tr-fe-ricoh-electronic-devices-company-42312656.html)
