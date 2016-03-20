@@ -33,12 +33,12 @@ and easy identification of actions and motions
 
 Documents
 
-- Schematic
-- Eagle Files
-- Getting Started
-- Tutorials
-- Arduino IDE
-- Product Page
+- [Schematic](https://cdn.sparkfun.com/datasheets/Dev/Arduino/Boards/Arduino101Schematic.pdf)
+- [Eagle Files](https://cdn.sparkfun.com/datasheets/Dev/Arduino/Boards/Arduino101EagleFiles.zip)
+- [Getting Started](https://www.arduino.cc/en/Guide/Arduino101)
+- [Tutorials](https://www.arduino.cc/en/Guide/Arduino101#toc8)
+- [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+- [Product Page](https://www.arduino.cc/en/Main/ArduinoBoard101)
 
 ## Enhanced Privacy Identification (EPID) technology
 
