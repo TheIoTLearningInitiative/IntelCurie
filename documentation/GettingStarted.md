@@ -25,7 +25,7 @@ and easy identification of actions and motions
 - [Intel® Curie™ Review](http://www.anandtech.com/show/8848/intel-announces-curie-tiny-module-for-wearables)
 - [Intel® Curie™ Power the Wearable Moment](http://iq.intel.com/intel-curie-powers-the-wearables-movement/)
 - [Intel® Curie™ Fact Sheet](http://www.intel.com/content/www/us/en/wearables/intel-curie-fact-sheet.html)
-- [1](https://software.intel.com/en-us/articles/fun-with-the-arduino-101-genuino-101)
+- [Fun with the Arduino 101](https://software.intel.com/en-us/articles/fun-with-the-arduino-101-genuino-101)
 
 ## Enhanced Privacy Identification (EPID) technology
 
