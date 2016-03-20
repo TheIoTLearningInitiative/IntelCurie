@@ -57,6 +57,8 @@ data.
 
 ### LM1117DTX-3.3
 
+> LDO Voltage Regulators 800MA LDO LINEAR REG
+
 ## Power Input Select
 
 ### R3119N050A 36V Input Voltage Detector 
