@@ -39,7 +39,10 @@ data.
 
 ## FPF2496
 
+>  IntelliMAX™ 28 V, Over-Voltage, Over-Current Protection. Load Switch with Adjustable Current-Limit Control.
 
+
+[](https://www.fairchildsemi.com/datasheets/FP/FPF2496.pdf)
 
 ## Texas Instruments TPS62153RGT
 
