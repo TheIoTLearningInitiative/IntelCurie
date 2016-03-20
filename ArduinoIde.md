@@ -20,13 +20,13 @@ Arduino 101 board connected to Linux host with USB Cable
     [47508.121064] usb 5-2: SerialNumber: AE6642SQ54700DQ
 ```
 
-## Arduino 101 Sketch Compilation
+## Arduino 101 Sketch Verification
 
 ```sh
     Sketch uses 29,473 bytes (14%) of program storage space. Maximum is 196,608 bytes.
 ```
 
-## Arduino 101 Sketch Compilation
+## Arduino 101 Sketch Upload
 
 ```sh
 Sketch uses 29,529 bytes (15%) of program storage space. Maximum is 196,608 bytes.
