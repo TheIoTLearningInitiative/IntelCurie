@@ -31,6 +31,15 @@ and easy identification of actions and motions
 
 - [Arduino 101](https://www.sparkfun.com/products/13787)
 
+Documents
+
+- Schematic
+- Eagle Files
+- Getting Started
+- Tutorials
+- Arduino IDE
+- Product Page
+
 ## Enhanced Privacy Identification (EPID) technology
 
 > Help secure an increasingly smart and connected world
