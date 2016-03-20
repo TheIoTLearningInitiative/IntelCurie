@@ -75,3 +75,9 @@ Done!
 Resetting USB to switch back to runtime mode
 Sketch will execute in about 5 seconds.
 ```
+
+## Examples
+
+- [CurieIMU Orientation Visualiser](https://www.arduino.cc/en/Tutorial/Genuino101CurieIMUOrientationVisualiser)
+- [CurieIMU Step Counter](https://www.arduino.cc/en/Tutorial/Genuino101CurieIMUStepCounter)
+- [CurieBLE Heart Rate Monitor](https://www.arduino.cc/en/Tutorial/Genuino101CurieBLEHeartRateMonitor)
