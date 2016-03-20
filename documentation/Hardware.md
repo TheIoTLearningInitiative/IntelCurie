@@ -55,6 +55,8 @@ data.
 
 [TPS62153RGT Datasheet](http://www.alldatasheet.com/datasheet-pdf/pdf/464053/TI1/TPS62153RGT.html)
 
+### LM1117DTX-3.3
+
 ## Power Input Select
 
 ### R3119N050A 36V Input Voltage Detector 
