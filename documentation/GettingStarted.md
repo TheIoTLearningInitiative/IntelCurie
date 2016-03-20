@@ -29,7 +29,9 @@ and easy identification of actions and motions
 
 ## Sparkfun
 
-- [Arduino 101](https://www.sparkfun.com/products/13787)
+> The Arduino 101 is a learning and development board that delivers the performance and low-power consumption of the Intel® Curie module with the simplicity of Arduino at an entry-level price. This development platform keeps the same robust form factor and peripheral list of the UNO with the addition of onboard Bluetooth LE capabilities and a 6-axis accelerometer/gyro to help you easily expand your creativity into the connected world. Sparkfun
+
+- - [Arduino 101](https://www.sparkfun.com/products/13787)
 
 Documents
 
