@@ -5,7 +5,7 @@ Arduino IDE
 
 > A sketch is the name that Arduino uses for a program. It's the unit of code that is uploaded to and run on an Arduino board. [Arduino](https://www.arduino.cc/en/Tutorial/Sketch)
 
-## Hello Arduino 101
+## Arduino 101 Kernel Message Welcoming
 
 Arduino 101 board connected to Linux host with USB Cable
 
