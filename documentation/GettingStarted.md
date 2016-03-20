@@ -13,14 +13,7 @@ and easy identification of actions and motions
 - 6-axis combo sensor with accelerometer and gyroscope
 - Battery charging circuitry (PMIC)
 
-## Arduino
-
-> Arduino 101 & Genuino 101 combine the ease-of-use of the classic boards with the latest technologies. The board recognises gestures, and features a six-axis accelerometer and gyroscope. Control your projects with your phone over Bluetooth connectivity! 
-
-- [Arduino 101 Intel® Curie™ Homepage](https://www.arduino.cc/en/Main/ArduinoBoard101)
-- [Arduino 101 Intel® Curie™ Getting Started](https://www.arduino.cc/en/Guide/Arduino101)
-
-## Intel
+### Intel
 
 > Intel and Arduino join forces to bring you a development platform as powerful as your imagination. The first widely available learning and development board based on the Intel® Curie™ Compute Module, the Arduino 101 board (branded Genuino 101* outside the U.S.), delivers Intel performance at an entry-level price. Intel
 
@@ -31,7 +24,17 @@ and easy identification of actions and motions
 - [Intel® Curie™ Fact Sheet](http://www.intel.com/content/www/us/en/wearables/intel-curie-fact-sheet.html)
 - [Fun with the Arduino 101](https://software.intel.com/en-us/articles/fun-with-the-arduino-101-genuino-101)
 
-## Sparkfun
+
+## Vendors
+
+### Arduino
+
+> Arduino 101 & Genuino 101 combine the ease-of-use of the classic boards with the latest technologies. The board recognises gestures, and features a six-axis accelerometer and gyroscope. Control your projects with your phone over Bluetooth connectivity! 
+
+- [Arduino 101 Intel® Curie™ Homepage](https://www.arduino.cc/en/Main/ArduinoBoard101)
+- [Arduino 101 Intel® Curie™ Getting Started](https://www.arduino.cc/en/Guide/Arduino101)
+
+### Sparkfun
 
 > The Arduino 101 is a learning and development board that delivers the performance and low-power consumption of the Intel® Curie module with the simplicity of Arduino at an entry-level price. This development platform keeps the same robust form factor and peripheral list of the UNO with the addition of onboard Bluetooth LE capabilities and a 6-axis accelerometer/gyro to help you easily expand your creativity into the connected world. Sparkfun
 
@@ -46,7 +49,7 @@ Documents
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 - [Product Page](https://www.arduino.cc/en/Main/ArduinoBoard101)
 
-## Adafruit
+### Adafruit
 
 > The Arduino 101 is simple.  It's a board that combines the universal appeal of Arduino with the latest technologies - like the Intel Curie module, Bluetooth LE capabilities, and a 6-axis accelerometer/gyro. Adafruit
 
