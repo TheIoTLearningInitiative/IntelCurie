@@ -55,4 +55,6 @@ data.
 
 ### R3119N050A 36V Input Voltage Detector 
 
+> R3119N Series are CMOS-based 36V input (absolute maximum ratings: 50V) voltage detector with high detector threshold accuracy and ultra-low supply current. Each of those ICs consists of a voltage reference unit, a comparator, resistors for detector threshold setting, an output driver and a hysteresis circuit. 
+
 [R3119N050A Datasheet](http://www.opendatasheets.com/datasheet/r3119n050a-tr-fe-ricoh-electronic-devices-company-42312656.html)
