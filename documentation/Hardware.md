@@ -37,6 +37,10 @@ data.
 
 - [Nordic nRF51822 Product Page](https://www.nordicsemi.com/eng/Products/Bluetooth-Smart-Bluetooth-low-energy/nRF51822)
 
+## FPF2496
+
+
+
 ## Texas Instruments TPS62153RGT
 
 > 3-17V 1A Step-Down Converter in 3x3 QFN Package
