@@ -48,7 +48,7 @@ Documents
 
 ## Adafruit
 
-> The Arduino 101 is simple.  It's a board that combines the universal appeal of Arduino with the latest technologies - like the Intel Curie module, Bluetooth LE capabilities, and a 6-axis accelerometer/gyro.
+> The Arduino 101 is simple.  It's a board that combines the universal appeal of Arduino with the latest technologies - like the Intel Curie module, Bluetooth LE capabilities, and a 6-axis accelerometer/gyro. Adafruit
 
 [Arduino 101 with Intel Curie](https://www.adafruit.com/products/3033)
 
