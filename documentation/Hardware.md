@@ -55,9 +55,11 @@ data.
 
 [TPS62153RGT Datasheet](http://www.alldatasheet.com/datasheet-pdf/pdf/464053/TI1/TPS62153RGT.html)
 
-### LM1117DTX-3.3
+### LM1117DTX-3.3 800-mA Low-Dropout Linear Regulator
 
 > LDO Voltage Regulators 800MA LDO LINEAR REG
+
+[LM1117 Datasheet](http://www.mouser.com/ds/2/405/lm1117-806475.pdf)
 
 ## Power Input Select
 
