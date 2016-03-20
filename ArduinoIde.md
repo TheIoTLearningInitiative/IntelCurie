@@ -2,7 +2,7 @@ Arduino IDE
 ==
 
 ```sh
-    xe1gyq@jessie:~$ dmesg
+    user@host:~$ dmesg
     ...
     [47507.944036] usb 5-2: new full-speed USB device number 3 using uhci_hcd
     [47508.121051] usb 5-2: New USB device found, idVendor=8087, idProduct=0aba
