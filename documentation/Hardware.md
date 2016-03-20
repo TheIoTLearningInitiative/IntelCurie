@@ -59,6 +59,8 @@ data.
 
 > LDO Voltage Regulators 800MA LDO LINEAR REG
 
+> The LM1117 is a low dropout voltage regulator with a dropout of 1.2 V at 800 mA of load current.
+
 [LM1117 Datasheet](http://www.mouser.com/ds/2/405/lm1117-806475.pdf)
 
 ## Power Input Select
