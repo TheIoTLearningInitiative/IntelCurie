@@ -45,6 +45,8 @@ data.
 
 [FPF2496 Datasheet](https://www.fairchildsemi.com/datasheets/FP/FPF2496.pdf)
 
+## Barrel Power Input
+
 ### Texas Instruments TPS62153RGT
 
 > 3-17V 1A Step-Down Converter in 3x3 QFN Package
