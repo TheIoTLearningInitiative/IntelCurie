@@ -57,3 +57,11 @@ Intel IQ Software Kits include:
 - Body IQ enables capabilities related to physical activities, including counting steps and calculating calories burned as well as providing data visualizations to help achieve goals.
 - Social IQ supports social interactions, including communication via phone, social networks and
 SMS with peers and brands.
+
+## Enhanced Privacy Identification (EPID) technology
+
+> Help secure an increasingly smart and connected world
+
+> Intel’s EPID technology provides an “on-ramp” designed to help devices securely connect to the Intel® IoT Platform. Intel’s EPID hardware-enforced integrity provides fixed device identity in a manner that is compatible with existing ISO and TCG standards, and helps protect privacy with sophisticated anonymity technology
+
+- [Intel EPID Fact Sheet](http://download.intel.com/newsroom/kits/idf/2015_fall/pdfs/Intel_EPID_Fact_Sheet.pdf)
