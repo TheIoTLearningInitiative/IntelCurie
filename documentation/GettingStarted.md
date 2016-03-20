@@ -46,6 +46,12 @@ Documents
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 - [Product Page](https://www.arduino.cc/en/Main/ArduinoBoard101)
 
+## Adafruit
+
+> The Arduino 101 is simple.  It's a board that combines the universal appeal of Arduino with the latest technologies - like the Intel Curie module, Bluetooth LE capabilities, and a 6-axis accelerometer/gyro.
+
+[Arduino 101 with Intel Curie](https://www.adafruit.com/products/3033)
+
 ## Intel® IQ Software Kits
 
 > Intel® IQ Software Kits combine algorithms, device software, application and cloud software to help customers incorporate advanced functionality into their wearable designs and provide a user experience that offers greater utility and value.
