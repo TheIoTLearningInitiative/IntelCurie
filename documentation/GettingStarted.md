@@ -27,6 +27,10 @@ and easy identification of actions and motions
 - [Intel® Curie™ Fact Sheet](http://www.intel.com/content/www/us/en/wearables/intel-curie-fact-sheet.html)
 - [Fun with the Arduino 101](https://software.intel.com/en-us/articles/fun-with-the-arduino-101-genuino-101)
 
+## Sparkfun
+
+- [](https://www.sparkfun.com/products/13787)
+
 ## Enhanced Privacy Identification (EPID) technology
 
 > Help secure an increasingly smart and connected world
