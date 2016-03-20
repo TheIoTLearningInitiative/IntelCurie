@@ -3,7 +3,7 @@ Getting Started
 
 > Unleashing a Low-Power Hardware Module for Wearable and Other Consumer and Industrial Edge Devices
 
-__Key Features__
+Key Features
 
 - A low-power, 32-bit Intel® Quark™ SE SoC
 - 384kB Flash memory, 80kB SRAM
