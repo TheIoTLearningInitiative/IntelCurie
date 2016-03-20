@@ -37,13 +37,15 @@ data.
 
 - [Nordic nRF51822 Product Page](https://www.nordicsemi.com/eng/Products/Bluetooth-Smart-Bluetooth-low-energy/nRF51822)
 
-## FPF2496
+## USB Power Input
+
+### FPF2496
 
 >  IntelliMAX™ 28 V, Over-Voltage, Over-Current Protection. Load Switch with Adjustable Current-Limit Control.
 
 [FPF2496 Datasheet](https://www.fairchildsemi.com/datasheets/FP/FPF2496.pdf)
 
-## Texas Instruments TPS62153RGT
+### Texas Instruments TPS62153RGT
 
 > 3-17V 1A Step-Down Converter in 3x3 QFN Package
 
