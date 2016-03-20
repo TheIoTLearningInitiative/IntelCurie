@@ -50,3 +50,9 @@ data.
 > The TPS6215X family is an easy to use synchronous step down DC-DC converter optimized for applications with high power density.
 
 [TPS62153RGT Datasheet](http://www.alldatasheet.com/datasheet-pdf/pdf/464053/TI1/TPS62153RGT.html)
+
+## Power Input Select
+
+### 
+
+[R3119N050A Datasheet](http://www.opendatasheets.com/datasheet/r3119n050a-tr-fe-ricoh-electronic-devices-company-42312656.html)
