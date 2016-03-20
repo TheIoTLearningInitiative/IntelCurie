@@ -26,6 +26,8 @@ Arduino 101 board connected to Linux host with USB Cable
     Sketch uses 29,473 bytes (14%) of program storage space. Maximum is 196,608 bytes.
 ```
 
+## Arduino 101 Sketch Compilation
+
 ```sh
 Sketch uses 29,529 bytes (15%) of program storage space. Maximum is 196,608 bytes.
 starting download script
