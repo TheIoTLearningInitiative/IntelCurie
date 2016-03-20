@@ -5,5 +5,5 @@
 * [Getting Started](documentation/GettingStarted.md)
 * [Hardware](documentation/Hardware.md)
 * [SandBox](documentation/Sandbox.md)
-* Arduino IDE
+* [Arduino IDE](ArduinoIde.md)
 
