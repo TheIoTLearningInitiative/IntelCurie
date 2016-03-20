@@ -1,7 +1,7 @@
 Arduino IDE
 ==
 
-Arduino 101 when connected to Linux host
+Arduino 101 board connected to Linux host with an USB Cable
 
 ```sh
     user@host:~$ dmesg
