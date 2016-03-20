@@ -15,6 +15,8 @@ and easy identification of actions and motions
 
 ## Arduino
 
+> Arduino 101 & Genuino 101 combine the ease-of-use of the classic boards with the latest technologies. The board recognises gestures, and features a six-axis accelerometer and gyroscope. Control your projects with your phone over Bluetooth connectivity!
+
 - [Arduino 101 Intel® Curie™ Homepage](https://www.arduino.cc/en/Main/ArduinoBoard101)
 - [Arduino 101 Intel® Curie™ Getting Started](https://www.arduino.cc/en/Guide/Arduino101)
 
