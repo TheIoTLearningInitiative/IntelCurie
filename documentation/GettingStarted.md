@@ -20,6 +20,8 @@ and easy identification of actions and motions
 
 ## Intel
 
+> Intel and Arduino join forces to bring you a development platform as powerful as your imagination. The first widely available learning and development board based on the Intel® Curie™ Compute Module, the Arduino 101 board (branded Genuino 101* outside the U.S.), delivers Intel performance at an entry-level price. Intel
+
 - [Intel® Quark™ SOC Product Brief](http://www.intel.com/content/www/us/en/intelligent-systems/quark/quark-x1000-product-brief.html)
 - [Intel® Curie™ Wearables SOC](http://www.intel.com/content/www/us/en/wearables/wearable-soc.html)
 - [Intel® Curie™ Review](http://www.anandtech.com/show/8848/intel-announces-curie-tiny-module-for-wearables)
@@ -31,7 +33,7 @@ and easy identification of actions and motions
 
 > The Arduino 101 is a learning and development board that delivers the performance and low-power consumption of the Intel® Curie module with the simplicity of Arduino at an entry-level price. This development platform keeps the same robust form factor and peripheral list of the UNO with the addition of onboard Bluetooth LE capabilities and a 6-axis accelerometer/gyro to help you easily expand your creativity into the connected world. Sparkfun
 
-- - [Arduino 101](https://www.sparkfun.com/products/13787)
+- [Arduino 101](https://www.sparkfun.com/products/13787)
 
 Documents
 
