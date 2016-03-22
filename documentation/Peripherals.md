@@ -4,7 +4,7 @@ Peripherals
 ## I2C
 
 > Arduino 101
-> > You will need to use 2 pull-up resistors (10k Ohm) between the SCL/SDA lines and 3.3V. The I2C lines on Quark SE Sensor Subsystem does not have internal pull-up, so external one is required. From Zephyr Documentation
+> > You will need to use 2 pull-up resistors (10k Ohm) between the SCL/SDA lines and 3.3V. The I2C lines on Quark SE Sensor Subsystem does not have internal pull-up, so external one is required. From Zephyr Samples Drivers Grove-Lcd Documentation
 
 ## Sensors Subsystem
 
