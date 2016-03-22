@@ -33,5 +33,5 @@ Processor
 
 - [Intel® Quark™ Microcontroller D1000 Overview](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/d1000/overview.html)
 - [Intel® Quark™ Microcontroller D1000: Product Brief](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/d1000/quark-d1000-product-brief.html)
-- [http://www.intel.com/content/www/us/en/embedded/products/quark/mcu-d1000/quark-d1000-datasheet.html](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu-d1000/quark-d1000-datasheet.html)
+- [Intel® Quark™ Microcontroller D1000: Product Brief](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu-d1000/quark-d1000-datasheet.html)
 
