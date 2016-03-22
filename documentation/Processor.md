@@ -5,10 +5,11 @@ Processor
 
 > Formerly Atlas Peak
 
-> The Intel® Quark™ SE microcontroller brings intelligent power to the edge by combining a microcontroller with an onboard sensor subsystem to manage power consumption through programmable wake cues. Intel® Quark™ SE microcontroller also features pattern matching technology engine that allows it to learn and differentiate. The result is always-sensing intelligence, bringing real time response down to the next generation of intelligent devices. 
+> The Intel® Quark™ SE microcontroller brings intelligent power to the edge by combining a microcontroller with an onboard sensor subsystem to manage power consumption through programmable wake cues. Intel® Quark™ SE microcontroller also features pattern matching technology engine that allows it to learn and differentiate. The result is always-sensing intelligence, bringing real time response down to the next generation of intelligent devices.
 
 > 32-bit processor @ 32 MHz Intel® Pentium® x86-compatible without x87 floating point unit, 8 KB instruction cache, 2-way associative
 
+- [Intel® Quark™ SE Microcontroller](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/se-soc/overview.html)
 - [Intel® Quark™ SE Microcontroller Get Started](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/se-soc/overview.html)
 - [Intel® Quark™ SE Microcontroller Product Brief](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/se-soc/quark-se-soc-product-brief.html)
 - [Intel® Quark™ SE Microcontroller Datasheet](http://www.intel.com/content/www/us/en/secure/embedded/nda/products/quark/mcu/quark-se-soc-datasheet.html)
