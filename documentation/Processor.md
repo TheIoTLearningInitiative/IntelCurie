@@ -9,7 +9,7 @@ Processor
 
 > 32-bit processor @ 32 MHz Intel® Pentium® x86-compatible without x87 floating point unit, 8 KB instruction cache, 2-way associative
 
-- [Intel® Quark™ SE Microcontroller](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/se-soc/overview.html)
+- [Intel® Quark™ SE Microcontroller Overview](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/se-soc/overview.html)
 - [Intel® Quark™ SE Microcontroller Get Started](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/se-soc/overview.html)
 - [Intel® Quark™ SE Microcontroller Product Brief](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/se-soc/quark-se-soc-product-brief.html)
 - [Intel® Quark™ SE Microcontroller Datasheet](http://www.intel.com/content/www/us/en/secure/embedded/nda/products/quark/mcu/quark-se-soc-datasheet.html)
@@ -24,4 +24,3 @@ Processor
 - [Intel® Quark™ Microcontroller D2000](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/d2000/overview.html)
 - [Intel® Quark™ D2000 Microcontroller: Product Brief](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/d2000/quark-d2000-product-brief.html)
 - [Intel® Quark™ D2000 Microcontroller: Datasheet](http://www.intel.com/content/www/us/en/secure/embedded/nda/products/quark/mcu/quark-d2000-datasheet.html)
-
