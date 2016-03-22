@@ -5,7 +5,7 @@
 * [Getting Started](documentation/GettingStarted.md)
 * [Hardware](documentation/Hardware.md)
    * [Processor](documentation/Processor.md)
-   * Peripherals
+   * [Peripherals](documentation/Peripherals.md)
 * [Arduino IDE](documentation/ArduinoIde.md)
 * [SandBox](documentation/Sandbox.md)
 
