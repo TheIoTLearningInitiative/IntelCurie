@@ -3,7 +3,7 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
 * [Getting Started](documentation/GettingStarted.md)
-* [Hardware](documentation/Hardware.md)
+* Hardware
    * [Processor](documentation/Processor.md)
    * [Peripherals](documentation/Peripherals.md)
 * [Arduino IDE](documentation/ArduinoIde.md)
