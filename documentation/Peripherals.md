@@ -1,6 +1,12 @@
 Peripherals
 ==
 
+## I2C
+
+Arduino 101
+===========
+You will need to connect the Grove LCD via the shield onto the Arduino 101. Additionally, you will need to use 2 pull-up resistors (10k Ohm) between the SCL/SDA lines and 3.3V. The I2C lines on Quark SE Sensor Subsystem does not have internal pull-up, so external one is required.
+
 ## Sensors Subsystem
 
 > 32-bit DSP core @ 32 MHz, Supporting ARCv2 ISA and floating point unit, 8 KB instruction cache, 2-way associative, 8 KB DCCM
