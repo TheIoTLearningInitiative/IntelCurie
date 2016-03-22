@@ -31,3 +31,5 @@ Processor
 
 > The Intel® Quark™ microcontroller D1000 is a low-cost, extremely low-power, 32-bit microcontroller, ranking very high in computational performance. The Intel® Quark™ microcontroller D1000 can provide flexible, low power computing for a wide variety of vertical industry solutions—bringing low-cost integration and compatibility to the next-wave of intelligent connected devices.
 
+- [Intel® Quark™ Microcontroller D1000 Overview](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/d1000/overview.html)
+- 
