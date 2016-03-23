@@ -23,7 +23,7 @@ and easy identification of actions and motions
 - [Intel® Curie™ Power the Wearable Moment](http://iq.intel.com/intel-curie-powers-the-wearables-movement/)
 - [Intel® Curie™ Fact Sheet](http://www.intel.com/content/www/us/en/wearables/intel-curie-fact-sheet.html)
 - [Fun with the Arduino 101](https://software.intel.com/en-us/articles/fun-with-the-arduino-101-genuino-101)
-- [](http://ardiri.com/blog/intel_and_arduino_team_up_to_bring_arduino_101)
+- [Ardiri Internet of Things (IoT) Intel Arduino](http://ardiri.com/blog/intel_and_arduino_team_up_to_bring_arduino_101)
 
 ## Vendors
 
