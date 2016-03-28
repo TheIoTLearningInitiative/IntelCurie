@@ -8,4 +8,5 @@
    * [Peripherals](documentation/Peripherals.md)
 * [Arduino IDE](documentation/ArduinoIde.md)
 * [SandBox](documentation/Sandbox.md)
+* Projects
 
