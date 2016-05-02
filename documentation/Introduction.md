@@ -18,8 +18,6 @@ and easy identification of actions and motions
 - 6-axis combo sensor with accelerometer and gyroscope
 - Battery charging circuitry (PMIC)
 
-### Links
-
 - [Intel® Quark™ SOC Product Brief](http://www.intel.com/content/www/us/en/intelligent-systems/quark/quark-x1000-product-brief.html)
 - [Intel® Curie™ Wearables SOC](http://www.intel.com/content/www/us/en/wearables/wearable-soc.html)
 - [Intel® Curie™ Review](http://www.anandtech.com/show/8848/intel-announces-curie-tiny-module-for-wearables)
