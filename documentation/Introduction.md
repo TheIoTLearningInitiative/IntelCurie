@@ -6,7 +6,7 @@ Getting Started
 
 > Unleashing a Low-Power Hardware Module for Wearable and Other Consumer and Industrial Edge Devices
 
-> Intel and Arduino join forces to bring you a development platform as powerful as your imagination. The first widely available learning and development board based on the Intel® Curie™ Compute Module, the Arduino 101 board (branded Genuino 101* outside the U.S.), delivers Intel performance at an entry-level price. Intel
+> Intel and Arduino join forces to bring you a development platform as powerful as your imagination. The first widely available learning and development board based on the Intel® Curie™ Compute Module, the Arduino 101 board (branded Genuino 101* outside the U.S.), delivers Intel performance at an entry-level price.
 
 > Key Features
   - A low-power, 32-bit Intel® Quark™ SE SoC
