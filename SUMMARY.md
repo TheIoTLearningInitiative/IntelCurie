@@ -6,7 +6,7 @@
 * Hardware
    * [Processor](documentation/Processor.md)
    * [Peripherals](documentation/Peripherals.md)
-* Software
+* [Software](documentation/Software.md)
 * [Arduino IDE](documentation/ArduinoIde.md)
 * [Projects](documentation/Projects.md)
 * [SandBox](documentation/Sandbox.md)
