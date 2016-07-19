@@ -1,8 +1,6 @@
-Introduction
-==
+# Introduction
 
-Getting Started
-==
+## Getting Started
 
 > Unleashing a Low-Power Hardware Module for Wearable and Other Consumer and Industrial Edge Devices
 
