@@ -9,7 +9,7 @@
    * [Features](documentation/Features.md)
 * [Getting Started](documentation/GettingStarted.md)
 * Hardware
-   * [Processor](documentation/Processor.md)
+   * [Processors](documentation/Processor.md)
    * [Peripherals](documentation/Peripherals.md)
 * [Software](documentation/Software.md)
    * [Arduino IDE](documentation/ArduinoIde.md)
