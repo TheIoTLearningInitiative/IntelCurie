@@ -11,7 +11,7 @@
 * Hardware
    * [Processors](documentation/Processor.md)
        * [Intel® Quark™ Microprocessors](documentation/IntelQuarkMicroprocessors.md)
-       * Intel® Quark™ Microcontrollers
+       * [Intel® Quark™ Microcontrollers](documentation/IntelQuarkMicrocontrollers.md)
    * [Peripherals](documentation/Peripherals.md)
 * [Software](documentation/Software.md)
    * [Arduino IDE](documentation/ArduinoIde.md)
