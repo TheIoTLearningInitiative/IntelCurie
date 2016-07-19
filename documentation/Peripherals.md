@@ -1,5 +1,4 @@
-Peripherals
-==
+# Peripherals
 
 ## I2C
 
