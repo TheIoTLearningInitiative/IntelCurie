@@ -16,16 +16,6 @@
 > "Mint Valley"
 > > [Quark D2000](http://ark.intel.com/products/91947)
 
-## Intel® Quark™ Microcontroller D2000
-
-> Formerly Mint Valley
-
-> The Intel® Quark™ microcontroller D2000, is a low power, battery-operated, 32-bit microcontroller with a more robust instruction set than other entry-level microcontrollers. The first x86-based Intel® Quark™ microcontroller, Intel® Quark™ microcontroller D2000 also increases input/output options over other entry-level microcontrollers. Within its small footprint, the Intel® Quark™ microcontroller D2000 includes an Intel® Quark™ ultra-low-power core running at 32 MHz, with 32 KB integrated flash and 8 KB SRAM.
-
-- [Intel® Quark™ Microcontroller D2000](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/d2000/overview.html)
-- [Intel® Quark™ D2000 Microcontroller Product Brief](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/d2000/quark-d2000-product-brief.html)
-- [Intel® Quark™ D2000 Microcontroller Datasheet](http://www.intel.com/content/www/us/en/secure/embedded/nda/products/quark/mcu/quark-d2000-datasheet.html)
-
 ## Intel® Quark™ Microcontroller D1000
 
 > Formerly Silver Butte
@@ -35,6 +25,16 @@
 - [Intel® Quark™ Microcontroller D1000 Overview](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/d1000/overview.html)
 - [Intel® Quark™ Microcontroller D1000 Product Brief](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/d1000/quark-d1000-product-brief.html)
 - [Intel® Quark™ Microcontroller D1000 Datasheet](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu-d1000/quark-d1000-datasheet.html)
+
+## Intel® Quark™ Microcontroller D2000
+
+> Formerly Mint Valley
+
+> The Intel® Quark™ microcontroller D2000, is a low power, battery-operated, 32-bit microcontroller with a more robust instruction set than other entry-level microcontrollers. The first x86-based Intel® Quark™ microcontroller, Intel® Quark™ microcontroller D2000 also increases input/output options over other entry-level microcontrollers. Within its small footprint, the Intel® Quark™ microcontroller D2000 includes an Intel® Quark™ ultra-low-power core running at 32 MHz, with 32 KB integrated flash and 8 KB SRAM.
+
+- [Intel® Quark™ Microcontroller D2000](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/d2000/overview.html)
+- [Intel® Quark™ D2000 Microcontroller Product Brief](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/d2000/quark-d2000-product-brief.html)
+- [Intel® Quark™ D2000 Microcontroller Datasheet](http://www.intel.com/content/www/us/en/secure/embedded/nda/products/quark/mcu/quark-d2000-datasheet.html)
 
 ## Intel® Quark™ SE Microcontroller
 
