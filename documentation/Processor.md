@@ -16,6 +16,9 @@
 > "Mint Valley"
 > > [Quark D2000](http://ark.intel.com/products/91947)
 
+> "Atlas Peak"
+> > [Quark SE C1000]()
+
 # Intel® Quark™ Microprocessors
 
 ## Intel® Quark™ SoC X1000 Series
