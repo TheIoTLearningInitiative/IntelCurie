@@ -2,6 +2,7 @@
 
 * [Cover](README.md)
 * About This Training
+   * Objectives
 * [Introduction](documentation/Introduction.md)
 * [Getting Started](documentation/GettingStarted.md)
 * Hardware
