@@ -1,6 +1,7 @@
 # Summary
 
 * [Cover](README.md)
+* About This Training
 * [Introduction](documentation/Introduction.md)
 * [Getting Started](documentation/GettingStarted.md)
 * Hardware
@@ -11,5 +12,4 @@
    * Tbd
 * [Projects](documentation/Projects.md)
 * [SandBox](documentation/Sandbox.md)
-* About This Training
 
