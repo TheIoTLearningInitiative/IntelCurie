@@ -6,7 +6,7 @@
    * [Skills](documentation/Skills.md)
    * [Prerequisites](documentation/Prerequisites.md)
 * [Introduction](documentation/Introduction.md)
-   * Features
+   * [Features](documentation/Features.md)
 * [Getting Started](documentation/GettingStarted.md)
 * Hardware
    * [Processor](documentation/Processor.md)
