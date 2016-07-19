@@ -10,6 +10,7 @@
 * [Getting Started](documentation/GettingStarted.md)
 * Hardware
    * [Processors](documentation/Processor.md)
+       * Intel® Quark™ Microprocessors
    * [Peripherals](documentation/Peripherals.md)
 * [Software](documentation/Software.md)
    * [Arduino IDE](documentation/ArduinoIde.md)
