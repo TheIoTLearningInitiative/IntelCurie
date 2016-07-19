@@ -23,17 +23,17 @@ data.
 
 - [Nordic nRF51822 Product Page](https://www.nordicsemi.com/eng/Products/Bluetooth-Smart-Bluetooth-low-energy/nRF51822)
 
-## USB Power Input
+# USB Power Input
 
-### FPF2496
+## FPF2496
 
 >  IntelliMAX™ 28 V, Over-Voltage, Over-Current Protection. Load Switch with Adjustable Current-Limit Control.
 
 [FPF2496 Datasheet](https://www.fairchildsemi.com/datasheets/FP/FPF2496.pdf)
 
-## Barrel Power Input
+# Barrel Power Input
 
-### Texas Instruments TPS62153RGT
+## Texas Instruments TPS62153RGT
 
 > 3-17V 1A Step-Down Converter in 3x3 QFN Package
 
@@ -41,7 +41,7 @@ data.
 
 [TPS62153RGT Datasheet](http://www.alldatasheet.com/datasheet-pdf/pdf/464053/TI1/TPS62153RGT.html)
 
-### LM1117DTX-3.3 800-mA Low-Dropout Linear Regulator
+## LM1117DTX-3.3 800-mA Low-Dropout Linear Regulator
 
 > LDO Voltage Regulators 800MA LDO LINEAR REG
 
@@ -49,9 +49,9 @@ data.
 
 [LM1117 Datasheet](http://www.mouser.com/ds/2/405/lm1117-806475.pdf)
 
-## Power Input Select
+# Power Input Select
 
-### R3119N050A 36V Input Voltage Detector 
+## R3119N050A 36V Input Voltage Detector 
 
 > R3119N Series are CMOS-based 36V input (absolute maximum ratings: 50V) voltage detector with high detector threshold accuracy and ultra-low supply current. Each of those ICs consists of a voltage reference unit, a comparator, resistors for detector threshold setting, an output driver and a hysteresis circuit. 
 
