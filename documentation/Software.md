@@ -11,6 +11,10 @@
 
 # Intel® Quark™ Microcontroller Software Interface (QMSI)
 
+> Intel® Quark™ Microcontroller Software Interface (QMSI) is a Hardware Abstraction Layer (HAL) for Intel® Quark™ Microcontroller products. It currently support the following SoCs:
+> > - Intel® Quark™ D2000 Microcontroller
+> > - Intel® Quark™ SE Microcontroller
+
 - [Github QMSI](https://github.com/01org/qmsi)
 
 # Intel® IQ Software Kits
