@@ -4,6 +4,7 @@
 * About This Training
    * Objectives
    * Skills
+   * Prerequisites
 * [Introduction](documentation/Introduction.md)
 * [Getting Started](documentation/GettingStarted.md)
 * Hardware
