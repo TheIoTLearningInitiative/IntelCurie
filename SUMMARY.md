@@ -16,7 +16,7 @@
 * [Software](documentation/Software.md)
    * [Arduino IDE](documentation/ArduinoIde.md)
    * [Projects](documentation/Projects.md)
-* [Wrap-Up](documentation/WrapUp.md)
+* Wrap-Up
    * [Challenge](documentation/Challenge.md)
 * [SandBox](documentation/Sandbox.md)
 
