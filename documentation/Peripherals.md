@@ -15,7 +15,7 @@ data.
 
 - [Bosch BMI160 Datasheet](http://www.mouser.mx/ds/2/621/BMI160_Flyer-534663.pdf)
 
-## Nordic nRF51822
+# Nordic nRF51822
 
 > Bluetooth Smart and 2.4GHz
 
