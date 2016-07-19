@@ -1,10 +1,5 @@
 # Peripherals
 
-# I2C
-
-> Arduino 101
-> > You will need to use 2 pull-up resistors (10k Ohm) between the SCL/SDA lines and 3.3V. The I2C lines on Quark SE Sensor Subsystem does not have internal pull-up, so external one is required. From Zephyr Samples Drivers Grove-Lcd Documentation
-
 # Sensors Subsystem
 
 > 32-bit DSP core @ 32 MHz, Supporting ARCv2 ISA and floating point unit, 8 KB instruction cache, 2-way associative, 8 KB DCCM
@@ -61,4 +56,9 @@ data.
 > R3119N Series are CMOS-based 36V input (absolute maximum ratings: 50V) voltage detector with high detector threshold accuracy and ultra-low supply current. Each of those ICs consists of a voltage reference unit, a comparator, resistors for detector threshold setting, an output driver and a hysteresis circuit. 
 
 [R3119N050A Datasheet](http://www.opendatasheets.com/datasheet/r3119n050a-tr-fe-ricoh-electronic-devices-company-42312656.html)
+
+# I2C
+
+> Arduino 101
+> > You will need to use 2 pull-up resistors (10k Ohm) between the SCL/SDA lines and 3.3V. The I2C lines on Quark SE Sensor Subsystem does not have internal pull-up, so external one is required. From Zephyr Samples Drivers Grove-Lcd Documentation
 
