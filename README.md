@@ -1,4 +1,4 @@
-<h1><center><b>Internet of Things 101</b></center></h1>
+<h1><center><b>Intel Curie</b></center></h1>
 
 <center><img src="http://www.ti.com/lsds/media/images/wireless_connectivity/50BillionThings.png"></center>
 
