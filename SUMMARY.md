@@ -11,4 +11,5 @@
    * Tbd
 * [Projects](documentation/Projects.md)
 * [SandBox](documentation/Sandbox.md)
+* About This Training
 
