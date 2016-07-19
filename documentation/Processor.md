@@ -16,7 +16,7 @@
 > "Mint Valley"
 > > [Quark D2000](http://ark.intel.com/products/91947)
 
-Intel® Quark™ Microprocessors
+# Intel® Quark™ Microprocessors
 
 # Intel® Quark™ Microcontrollers
 
