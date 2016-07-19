@@ -17,5 +17,6 @@
    * [Arduino IDE](documentation/ArduinoIde.md)
 * [Projects](documentation/Projects.md)
 * [Wrap-Up](documentation/WrapUp.md)
+   * Challenge
 * [SandBox](documentation/Sandbox.md)
 
