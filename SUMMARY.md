@@ -17,5 +17,5 @@
    * [Arduino IDE](documentation/ArduinoIde.md)
 * [Projects](documentation/Projects.md)
 * [SandBox](documentation/Sandbox.md)
-* Wrap-Up
+* [Wrap-Up](documentation/WrapUp.md)
 
