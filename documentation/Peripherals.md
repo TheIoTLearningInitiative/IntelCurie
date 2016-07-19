@@ -1,19 +1,19 @@
 # Peripherals
 
-## I2C
+# I2C
 
 > Arduino 101
 > > You will need to use 2 pull-up resistors (10k Ohm) between the SCL/SDA lines and 3.3V. The I2C lines on Quark SE Sensor Subsystem does not have internal pull-up, so external one is required. From Zephyr Samples Drivers Grove-Lcd Documentation
 
-## Sensors Subsystem
+# Sensors Subsystem
 
 > 32-bit DSP core @ 32 MHz, Supporting ARCv2 ISA and floating point unit, 8 KB instruction cache, 2-way associative, 8 KB DCCM
 
-## Pattern-Matching Accelerator
+# Pattern-Matching Accelerator
 
 > Hardware pattern recognition IP, 128 neurons with 128 components per neuron
 
-## Bosch BMI160 Inertial Measurement Unit
+# Bosch BMI160 Inertial Measurement Unit
 
 > The BMI160 is a small, low-power, low-noise 16 bit Inertial Measurement Unit designed for use in mobile applications such as augmented reality or indoor navigation which require highly accurate, real-time sensor
 data. 
