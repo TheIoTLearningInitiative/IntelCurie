@@ -10,7 +10,7 @@
 * [Getting Started](documentation/GettingStarted.md)
 * Hardware
    * [Processors](documentation/Processor.md)
-       * Intel® Quark™ Microprocessors
+       * [Intel® Quark™ Microprocessors](documentation/IntelQuarkMicroprocessors.md)
        * Intel® Quark™ Microcontrollers
    * [Peripherals](documentation/Peripherals.md)
 * [Software](documentation/Software.md)
