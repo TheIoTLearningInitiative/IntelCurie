@@ -2,8 +2,6 @@
 
 # Zephyr
 
-# Introduction
-
 > Zephyr is a small real-time operating system for connected, resource-constrained devices supporting multiple architectures and released under the Apache License 2.0. Originally developed as Rocket kernel by Wind River Systems for Internet of Things devices, Zephyr became a project of the Linux Foundation in February 2016. [Wikipedia](https://en.wikipedia.org/wiki/Zephyr_(operating_system)
 
 > Zephyr Project is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.  Developers are able to tailor their optimal solution. As a true open source project, the community can evolve the Zephyr Project to support new hardware, developer tools, sensor and device drivers.  Advancements in security, device management capabilities, connectivity stacks and file systems can be easily implemented. [Zephyr Homepage](https://www.zephyrproject.org/)
