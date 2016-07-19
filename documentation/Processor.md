@@ -24,7 +24,6 @@
 
 > The Intel® Quark™ SoC X1000 is Intel’s lowest-power secure SoC, designed to bring intelligence to the network edge and reduce development costs for securely managed Internet of Things (IoT) endpoint devices.
 
-
 # Intel® Quark™ Microcontrollers
 
 ## Intel® Quark™ Microcontroller D1000
