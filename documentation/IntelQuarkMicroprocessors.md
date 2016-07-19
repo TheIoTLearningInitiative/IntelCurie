@@ -1,7 +1,5 @@
 # Intel® Quark™ Microprocessors
 
-# Intel® Quark™ Microprocessors
-
 ## Intel® Quark™ SoC X1000 Series
 
 > Formerly Clanton
