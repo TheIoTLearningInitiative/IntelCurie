@@ -36,4 +36,4 @@
 
 # Intel® QMSI BSP
 
-> Using Intel® Quark™ Microcontroller Software Interface Board Support Package [](https://software.intel.com/en-us/node/604839)
+> Using Intel® Quark™ Microcontroller Software Interface Board Support Package [Homepage](https://software.intel.com/en-us/node/604839)
