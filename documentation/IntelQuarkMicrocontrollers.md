@@ -33,3 +33,7 @@
 - [Intel® Quark™ SE Microcontroller Product Brief](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/se-soc/quark-se-soc-product-brief.html)
 - [Intel® Quark™ SE Microcontroller Datasheet](http://www.intel.com/content/www/us/en/secure/embedded/nda/products/quark/mcu/quark-se-soc-datasheet.html)
 - [Intel® Quark™ SE Microcontroller Debug Operations: User Guide](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/se-soc/quark-se-debug-operations-user-guide.html)
+
+# Intel® QMSI BSP
+
+Using Intel® Quark™ Microcontroller Software Interface Board Support Package
