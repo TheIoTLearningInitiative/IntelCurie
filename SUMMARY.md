@@ -17,7 +17,7 @@
    * [Arduino IDE](documentation/ArduinoIde.md)
    * [Projects](documentation/Projects.md)
 * Subsystems
-   * Power Management
+   * [Power Management](documentation/SubsystemsPowerManagement.md)
 * Wrap-Up
    * [Challenge](documentation/Challenge.md)
 * [SandBox](documentation/Sandbox.md)
