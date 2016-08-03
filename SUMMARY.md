@@ -16,8 +16,8 @@
 * [Software](documentation/Software.md)
    * [Arduino IDE](documentation/ArduinoIde.md)
    * [Projects](documentation/Projects.md)
+* Subsystems
 * Wrap-Up
    * [Challenge](documentation/Challenge.md)
 * [SandBox](documentation/Sandbox.md)
-* Subsystems
 
