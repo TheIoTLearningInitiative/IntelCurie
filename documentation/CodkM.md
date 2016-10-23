@@ -11,9 +11,8 @@ Receiving objects: 100% (135/135), 1.04 MiB | 219.00 KiB/s, done.
 Resolving deltas: 100% (40/40), done.
 Comprobando la conectividad… hecho.
 pymelab@workstation:~/CODK$ cd CODK-M/
-pymelab@workstation:~/CODK/CODK-M$ make clone
 ```
 
 ```sh
-
+pymelab@workstation:~/CODK/CODK-M$ make clone
 ```
