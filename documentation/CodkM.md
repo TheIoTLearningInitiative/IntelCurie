@@ -49,5 +49,11 @@ pymelab@workstation:~/CODK/CODK-M$
 
 ```sh
 pymelab@workstation:~/CODK/CODK-M$ sudo make install-dep
+```
+
+```sh
+pymelab@workstation:~/CODK/CODK-M$ make setup
+Setting up x86 Firmware
+Downloading Zephyr
 
 ```
