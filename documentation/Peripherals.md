@@ -31,25 +31,23 @@ data.
 
 # Barrel Power Input
 
-## Texas Instruments TPS62153RGT
+Texas Instruments TPS62153RGT
 
 > 3-17V 1A Step-Down Converter in 3x3 QFN Package
-
 > The TPS6215X family is an easy to use synchronous step down DC-DC converter optimized for applications with high power density.
 
 [TPS62153RGT Datasheet](http://www.alldatasheet.com/datasheet-pdf/pdf/464053/TI1/TPS62153RGT.html)
 
-## LM1117DTX-3.3 800-mA Low-Dropout Linear Regulator
+LM1117DTX-3.3 800-mA Low-Dropout Linear Regulator
 
 > LDO Voltage Regulators 800MA LDO LINEAR REG
-
 > The LM1117 is a low dropout voltage regulator with a dropout of 1.2 V at 800 mA of load current.
 
 [LM1117 Datasheet](http://www.mouser.com/ds/2/405/lm1117-806475.pdf)
 
 # Power Input Select
 
-## R3119N050A 36V Input Voltage Detector 
+R3119N050A 36V Input Voltage Detector 
 
 > R3119N Series are CMOS-based 36V input (absolute maximum ratings: 50V) voltage detector with high detector threshold accuracy and ultra-low supply current. Each of those ICs consists of a voltage reference unit, a comparator, resistors for detector threshold setting, an output driver and a hysteresis circuit. 
 
