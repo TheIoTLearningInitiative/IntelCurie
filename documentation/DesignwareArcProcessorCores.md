@@ -1,3 +1,3 @@
 # DesignWare ARC Processor Cores
 
->  [Homepage](https://www.synopsys.com/IP/PROCESSORIP/ARCPROCESSORS/Pages/default.aspx)
+> Synopsys' DesignWare® ARC® Processors are a family of 32-bit CPUs that SoC designers can optimize for a wide range of uses, from deeply embedded to high-performance host applications in a variety of market segments. Designers can differentiate their products by using patented configuration technology to tailor each ARC processor instance to meet specific performance, power and area requirements. The DesignWare ARC processors are also extendable, allowing designers to add their own custom instructions that dramatically increase performance. Synopsys' ARC processors have been used by over 170 customers worldwide who collectively ship more than 1.5 billion ARC-based chips annually. [Homepage](https://www.synopsys.com/IP/PROCESSORIP/ARCPROCESSORS/Pages/default.aspx)
