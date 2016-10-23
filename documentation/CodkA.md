@@ -50,3 +50,9 @@ Resolving deltas: 100% (1679/1679), done.
 Comprobando la conectividad… hecho
 user@workstation:~/CODK/CODK-A$ 
 ```
+
+```sh
+user@workstation:~/CODK/CODK-A$ sudo make install dep
+
+```
+
