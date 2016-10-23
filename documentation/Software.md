@@ -2,6 +2,9 @@
 
 > The Intel® Curie™ Module for Wearables and More. Are you ready to see what the Intel® Curie™ module can do? Whether you are new as a Maker or a seasoned pro, create your next project or product using one of our software or hardware solutions. [Intel Software Curie Homepage](https://software.intel.com/en-us/iot/hardware/curie)
 
+- Introduction
+  - 
+
 # Intel® Quark™ Microcontroller Software Interface (QMSI)
 
 > Intel® Quark™ Microcontroller Software Interface (QMSI) is a Hardware Abstraction Layer (HAL) for Intel® Quark™ Microcontroller products. It currently support the following SoCs:
