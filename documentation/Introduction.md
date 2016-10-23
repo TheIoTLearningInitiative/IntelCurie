@@ -14,6 +14,7 @@ It keeps the same robust form factor and peripheral list of the UNO with the add
 > > - An integrated DSP sensor hub
 > > - Bluetooth* Low Energy radio
 > > - 6-axis combo sensor with accelerometer and gyroscope
+
 > And with Arduino's open source hardware and software platforms, you'll be able to move from beginner to expert level in no time.
 
 - [Intel® Quark™ SOC Product Brief](http://www.intel.com/content/www/us/en/intelligent-systems/quark/quark-x1000-product-brief.html)
