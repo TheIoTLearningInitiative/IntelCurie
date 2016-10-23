@@ -1,5 +1,9 @@
 # Arduino IDE
 
+```sh
+user@workstation:~/Downloads/arduino-1.6.12$ sudo ./install.sh
+```
+
 # corelibs-arduino101
 
 > The contents of this repo is distributed through releases in Arduino IDE. Tools > Board > Boards Manager > Intel Curie Boards by Intel [Github corelibs-arduino101](https://github.com/01org/corelibs-arduino101)
@@ -28,7 +32,7 @@ user@workstation:~$
 pymelab@workstation:~/Descargas/arduino-1.6.12$ ./arduinols -l /dev/ttyACM* ^C
 pymelab@workstation:~/Descargas/arduino-1.6.12$ ls -l /dev/ttyACM* 
 crw-rw---- 1 root dialout 166, 0 oct 23 12:04 /dev/ttyACM0
-pymelab@workstation:~/Descargas/arduino-1.6.12$ sudo usermod -a -G dialout pymelab 
+pymelab@workstation:~/Descargas/arduino-1.6.12$ sudo usermod -a -G dialout pymelab
 ```
 
 ## Arduino 101 Sketch Verification
