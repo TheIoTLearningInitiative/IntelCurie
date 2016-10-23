@@ -53,6 +53,12 @@ user@workstation:~/CODK/CODK-A$
 
 ```sh
 user@workstation:~/CODK/CODK-A$ sudo make install dep
+sudo: imposible resolver el anfitrión workstation
+make: *** No hay ninguna regla para construir el objetivo «install».  Alto.
+pymelab@workstation:~/CODK/CODK-A$ 
+```
+
+```sh
 
 ```
 
