@@ -3,7 +3,11 @@
 > The Intel® Curie™ Module for Wearables and More. Are you ready to see what the Intel® Curie™ module can do? Whether you are new as a Maker or a seasoned pro, create your next project or product using one of our software or hardware solutions. [Intel Software Curie Homepage](https://software.intel.com/en-us/iot/hardware/curie)
 
 - Introduction
-  - 
+  - Getting to Know the Arduino 101* Platform
+  - What the Intel® Curie™ Compute Module Means to Makers
+  - Fun with the Arduino 101* Module (branded Genuino 101* outside the U.S.)
+- 
+
 
 # Intel® Quark™ Microcontroller Software Interface (QMSI)
 
