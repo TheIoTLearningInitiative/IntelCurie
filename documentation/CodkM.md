@@ -38,5 +38,11 @@ Comprobando la conectividad… hecho.
 cd /home/pymelab/CODK/CODK-M//x86-samples && ./create_symlinks.sh
 git clone -b master https://github.com/01org/CODK-Z-Flashpack.git /home/pymelab/CODK/CODK-M//flashpack
 Clonar en «/home/pymelab/CODK/CODK-M//flashpack»...
-
+remote: Counting objects: 6543, done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 6543 (delta 2), reused 0 (delta 0), pack-reused 6537
+Receiving objects: 100% (6543/6543), 14.68 MiB | 750.00 KiB/s, done.
+Resolving deltas: 100% (1672/1672), done.
+Comprobando la conectividad… hecho.
+pymelab@workstation:~/CODK/CODK-M$ 
 ```
