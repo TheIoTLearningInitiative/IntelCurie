@@ -13,14 +13,15 @@
 Arduino 101 board connected to Linux host with USB Cable
 
 ```sh
-    user@host:~$ dmesg
-    ...
-    [47507.944036] usb 5-2: new full-speed USB device number 3 using uhci_hcd
-    [47508.121051] usb 5-2: New USB device found, idVendor=8087, idProduct=0aba
-    [47508.121056] usb 5-2: New USB device strings: Mfr=1, Product=2, SerialNumber=3
-    [47508.121059] usb 5-2: Product: ARDUINO 101
-    [47508.121062] usb 5-2: Manufacturer: Intel
-    [47508.121064] usb 5-2: SerialNumber: AE6642SQ54700DQ
+user@workstation:~$ dmesg
+[82455.310461] usb 1-6: new full-speed USB device number 79 using xhci_hcd
+[82455.440584] usb 1-6: New USB device found, idVendor=8087, idProduct=0ab6
+[82455.440587] usb 1-6: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[82455.440589] usb 1-6: Product: ARDUINO 101
+[82455.440590] usb 1-6: Manufacturer: Intel
+[82455.440591] usb 1-6: SerialNumber: AE6642SQ60400F1
+[82455.441956] cdc_acm 1-6:1.0: ttyACM0: USB ACM device
+user@workstation:~$ 
 ```
 
 ## Arduino 101 Sketch Verification
