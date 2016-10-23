@@ -2,7 +2,7 @@
 
 # Kernel Message Welcoming Arduino 101
 
-Arduino 101 board connected to Linux host with USB Cable
+Arduino 101 board connected to a Linux host with USB Cable
 
 ```sh
 user@workstation:~$ dmesg
