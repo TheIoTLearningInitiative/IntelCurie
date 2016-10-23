@@ -1,5 +1,8 @@
 # Introduction
 
+> A learning and development board that delivers the performance and low-power consumption of the Intel® Curie™ Module with the simplicity of Arduino at an entry-level price. 
+It keeps the same robust form factor and peripheral list of the UNO with the addition of onboard Bluetooth LE capabilities and a 6-axis accelerometer/gyro to help you easily expand your creativity into the connected world. [Arduino CC Homepage](https://www.arduino.cc/en/Main/ArduinoBoard101)
+
 > Unleashing a Low-Power Hardware Module for Wearable and Other Consumer and Industrial Edge Devices
 
 > Intel and Arduino join forces to bring you a development platform as powerful as your imagination. The first widely available learning and development board based on the Intel® Curie™ Compute Module, the Arduino 101 board (branded Genuino 101* outside the U.S.), delivers Intel performance at an entry-level price.
