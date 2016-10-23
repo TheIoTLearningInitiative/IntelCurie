@@ -12,3 +12,7 @@ Resolving deltas: 100% (40/40), done.
 Comprobando la conectividad… hecho.
 pymelab@workstation:~/CODK$ 
 ```
+
+```sh
+
+```
