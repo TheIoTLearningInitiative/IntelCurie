@@ -23,7 +23,7 @@ data.
 
 # USB Power Input
 
-## FPF2496
+FPF2496
 
 >  IntelliMAX™ 28 V, Over-Voltage, Over-Current Protection. Load Switch with Adjustable Current-Limit Control.
 
