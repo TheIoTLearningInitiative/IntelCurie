@@ -1,0 +1,2 @@
+# DesignWare ARC Processor Cores
+
