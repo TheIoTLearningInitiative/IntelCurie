@@ -15,7 +15,7 @@
    * [Peripherals](documentation/Peripherals.md)
 * Platforms
    * [Arduino 101](documentation/Arduino101.md)
-   * tinyTILE
+   * [tinyTILE](documentation/TinyTile.md)
 * [Software](documentation/Software.md)
    * [Arduino IDE](documentation/ArduinoIde.md)
    * [Projects](documentation/Projects.md)
