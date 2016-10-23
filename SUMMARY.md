@@ -17,9 +17,9 @@
    * [Arduino 101](documentation/Arduino101.md)
    * [tinyTILE](documentation/TinyTile.md)
 * [Software](documentation/Software.md)
+   * [Intel® Curie™ Open Developer Kit (ODK)](documentation/IntelCurieOpenDeveloperKitOdk.md)
    * [Arduino IDE](documentation/ArduinoIde.md)
    * [Projects](documentation/Projects.md)
-   * [Intel® Curie™ Open Developer Kit (ODK)](documentation/IntelCurieOpenDeveloperKitOdk.md)
 * Subsystems
    * [Power Management](documentation/SubsystemsPowerManagement.md)
 * Wrap-Up
