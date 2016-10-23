@@ -59,6 +59,14 @@ pymelab@workstation:~/CODK/CODK-A$
 ```
 
 ```sh
+user@workstation:~/CODK/CODK-A$ make compile-x86
+user@workstation:~/CODK/CODK-A$ make compile-arc
+user@workstation:~/CODK/CODK-A$ make compile
+```
 
+```sh
+user@workstation:~/CODK/CODK-A$ make upload-x86
+user@workstation:~/CODK/CODK-A$ make upload-arc
+user@workstation:~/CODK/CODK-A$ make upload
 ```
 
