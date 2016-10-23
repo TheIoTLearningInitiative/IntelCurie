@@ -48,4 +48,5 @@ remote: Total 6576 (delta 0), reused 0 (delta 0), pack-reused 6576
 Receiving objects: 100% (6576/6576), 20.68 MiB | 1.00 MiB/s, done.
 Resolving deltas: 100% (1679/1679), done.
 Comprobando la conectividad… hecho
+pymelab@workstation:~/CODK/CODK-A$
 ```
