@@ -28,4 +28,5 @@ Comprobando la conectividad… hecho.
 git clone -b master https://github.com/01org/CODK-A-X86.git /home/user/CODK/CODK-A//x86
 Clonar en «/home/pymelab/CODK/CODK-A//x86»...
 remote: Counting objects: 7282, done.
+
 ```
