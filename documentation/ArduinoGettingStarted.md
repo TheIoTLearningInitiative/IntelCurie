@@ -16,7 +16,7 @@ user@workstation:~$ dmesg
 user@workstation:~$ 
 ```
 
-# Dialout Group
+# Dialout Group Permissions
 
 ```sh
 pymelab@workstation:~$ ./arduinols -l /dev/ttyACM* ^C
