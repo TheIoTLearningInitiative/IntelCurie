@@ -14,7 +14,7 @@
        * [Intel® Quark™ Microcontrollers](documentation/IntelQuarkMicrocontrollers.md)
    * [Peripherals](documentation/Peripherals.md)
 * Platforms
-   * Arduino 101
+   * [Arduino 101](documentation/Arduino101.md)
    * tinyTILE
 * [Software](documentation/Software.md)
    * [Arduino IDE](documentation/ArduinoIde.md)
