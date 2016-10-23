@@ -12,7 +12,7 @@
    * [Processors](documentation/Processor.md)
        * [Intel® Quark™ Microprocessors](documentation/IntelQuarkMicroprocessors.md)
        * [Intel® Quark™ Microcontrollers](documentation/IntelQuarkMicrocontrollers.md)
-       * DesignWare ARC Processor Cores
+       * [DesignWare ARC Processor Cores](documentation/DesignwareArcProcessorCores.md)
    * [Peripherals](documentation/Peripherals.md)
 * Platforms
    * [Arduino 101](documentation/Arduino101.md)
