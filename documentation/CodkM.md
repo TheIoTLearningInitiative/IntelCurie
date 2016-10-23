@@ -46,3 +46,8 @@ Resolving deltas: 100% (1672/1672), done.
 Comprobando la conectividad… hecho.
 pymelab@workstation:~/CODK/CODK-M$ 
 ```
+
+```sh
+pymelab@workstation:~/CODK/CODK-M$ sudo make install-dep
+
+```
