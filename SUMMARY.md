@@ -25,6 +25,7 @@
    * [Projects](documentation/Projects.md)
 * Subsystems
    * [Power Management](documentation/SubsystemsPowerManagement.md)
+   * DSP
 * Wrap-Up
    * [Challenge](documentation/Challenge.md)
 * [SandBox](documentation/Sandbox.md)
