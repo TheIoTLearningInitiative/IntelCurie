@@ -1,5 +1,7 @@
 # Software
 
+>  https://software.intel.com/en-us/iot/hardware/curie
+
 # Intel® Quark™ Microcontroller Software Interface (QMSI)
 
 > Intel® Quark™ Microcontroller Software Interface (QMSI) is a Hardware Abstraction Layer (HAL) for Intel® Quark™ Microcontroller products. It currently support the following SoCs:
