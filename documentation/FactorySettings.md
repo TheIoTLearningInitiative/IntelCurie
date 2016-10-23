@@ -85,3 +85,11 @@ arduino101-factory_recovery-flashpack/bin/readbin.32
 arduino101-factory_recovery-flashpack/bin/readbin.exe
 user@workstation:~/Downloads$ 
 ```
+
+```sh
+user@workstation:~/Downloads$ cd arduino101-factory_recovery-flashpack/
+user@workstation:~/Downloads/arduino101-factory_recovery-flashpack$ ls
+bin      create_flasher.sh  drivers        flash_dfu.sh    flash_jtag.sh  fwversion.sh  images.dist      README.md   scripts
+bin_osx  DFU-UTIL.readme    flash_dfu.bat  flash_jtag.bat  fwversion.bat  images        OSX-FTDI-Fix.sh  README.pdf  utilities
+user@workstation:~/Downloads/arduino101-factory_recovery-flashpack$ 
+```
