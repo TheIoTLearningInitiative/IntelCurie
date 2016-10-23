@@ -24,6 +24,13 @@ user@workstation:~$ dmesg
 user@workstation:~$ 
 ```
 
+```sh
+pymelab@workstation:~/Descargas/arduino-1.6.12$ ./arduinols -l /dev/ttyACM* ^C
+pymelab@workstation:~/Descargas/arduino-1.6.12$ ls -l /dev/ttyACM* 
+crw-rw---- 1 root dialout 166, 0 oct 23 12:04 /dev/ttyACM0
+pymelab@workstation:~/Descargas/arduino-1.6.12$ sudo usermod -a -G dialout pymelab 
+```
+
 ## Arduino 101 Sketch Verification
 
 ```sh
