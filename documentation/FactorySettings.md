@@ -1,3 +1,3 @@
 # Factory Settings
 
-> ()[https://downloadcenter.intel.com/downloads/eula/25470/Arduino-101-software-package?httpDown=https%3A%2F%2Fdownloadmirror.intel.com%2F25470%2Feng%2Farduino101-factory_recovery-flashpack.tar.bz2]
+> Use the Flashpack utility to restore the factory settings and the original bootloader of the Arduino 101. Please consult the README and follow the instructions for your environment.  [Flashpack](https://downloadcenter.intel.com/downloads/eula/25470/Arduino-101-software-package?httpDown=https%3A%2F%2Fdownloadmirror.intel.com%2F25470%2Feng%2Farduino101-factory_recovery-flashpack.tar.bz2)
