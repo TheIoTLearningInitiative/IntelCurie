@@ -55,5 +55,9 @@ pymelab@workstation:~/CODK/CODK-M$ sudo make install-dep
 pymelab@workstation:~/CODK/CODK-M$ make setup
 Setting up x86 Firmware
 Downloading Zephyr
+nstalling Zephyr to /home/pymelab/CODK/zephyr
+Downloading Zephyr SDK
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
 
 ```
