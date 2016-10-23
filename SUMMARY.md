@@ -18,11 +18,11 @@
    * [Arduino 101](documentation/Arduino101.md)
    * [tinyTILE](documentation/TinyTile.md)
 * [Software](documentation/Software.md)
+   * Factory Settings
    * [Intel® Curie™ Open Developer Kit (ODK)](documentation/IntelCurieOpenDeveloperKitOdk.md)
        * [CODK-A](documentation/CodkA.md)
    * [Arduino IDE](documentation/ArduinoIde.md)
    * [Projects](documentation/Projects.md)
-   * Factory Settings
 * Subsystems
    * [Power Management](documentation/SubsystemsPowerManagement.md)
 * Wrap-Up
