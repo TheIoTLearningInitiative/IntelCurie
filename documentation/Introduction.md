@@ -8,12 +8,12 @@ It keeps the same robust form factor and peripheral list of the UNO with the add
 > Unleashing a Low-Power Hardware Module for Wearable and Other Consumer and Industrial Edge Devices
 
 > Intel and Arduino join forces to bring you a development platform as powerful as your imagination. The first widely available learning and development board based on the Intel® Curie™ Compute Module, the Arduino 101 board (branded Genuino 101* outside the U.S.), delivers Intel performance at an entry-level price. Arduino 101* is optimized to help you build the next generation of wearable tech. It features:
-> > A 32-bit Intel® Quark™ microcontroller (for minimal power consumption)
-> > An Intel® Curie™ module with 384 kB of flash memory (196 kB available to Arduino* sketch)
-> > 80 kb of SRAM (24 kB available for Arduino sketches)
-> > An integrated DSP sensor hub
-> > Bluetooth* Low Energy radio
-> > 6-axis combo sensor with accelerometer and gyroscope
+> > - A 32-bit Intel® Quark™ microcontroller (for minimal power consumption)
+> > - An Intel® Curie™ module with 384 kB of flash memory (196 kB available to Arduino* sketch)
+> > - 80 kb of SRAM (24 kB available for Arduino sketches)
+> > - An integrated DSP sensor hub
+> > - Bluetooth* Low Energy radio
+> > - 6-axis combo sensor with accelerometer and gyroscope
 > And with Arduino's open source hardware and software platforms, you'll be able to move from beginner to expert level in no time.
 
 - [Intel® Quark™ SOC Product Brief](http://www.intel.com/content/www/us/en/intelligent-systems/quark/quark-x1000-product-brief.html)
