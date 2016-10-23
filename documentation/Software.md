@@ -6,7 +6,12 @@
   - Getting to Know the Arduino 101* Platform
   - What the Intel® Curie™ Compute Module Means to Makers
   - Fun with the Arduino 101* Module (branded Genuino 101* outside the U.S.)
-- 
+- Digging Deeper
+  - Intel® Curie™ Compute Module Design Guide
+  - Intel® Curie™ Compute Module Datasheet
+  - Create a Bluetooth® Low Energy Service
+  - Controlling a Direct Current Motor
+  - Gesture Recognition Using an Accelerometer and ESP
 
 
 # Intel® Quark™ Microcontroller Software Interface (QMSI)
