@@ -1,21 +1,19 @@
-# Peripherals
-
-# Sensors Subsystem
+# Peripherals: Sensors Subsystem
 
 > 32-bit DSP core @ 32 MHz, Supporting ARCv2 ISA and floating point unit, 8 KB instruction cache, 2-way associative, 8 KB DCCM
 
-# Pattern-Matching Accelerator
+# Peripherals: Pattern-Matching Accelerator
 
 > Hardware pattern recognition IP, 128 neurons with 128 components per neuron
 
-# Bosch BMI160 Inertial Measurement Unit
+# Peripherals: Bosch BMI160 Inertial Measurement Unit
 
 > The BMI160 is a small, low-power, low-noise 16 bit Inertial Measurement Unit designed for use in mobile applications such as augmented reality or indoor navigation which require highly accurate, real-time sensor
 data. 
 
 - [Bosch BMI160 Datasheet](http://www.mouser.mx/ds/2/621/BMI160_Flyer-534663.pdf)
 
-# Nordic nRF51822
+# Peripherals: Nordic nRF51822
 
 > Bluetooth Smart and 2.4GHz
 
