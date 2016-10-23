@@ -29,7 +29,7 @@ pymelab@workstation:~$ sudo usermod -a -G dialout pymelab
     Sketch uses 29,473 bytes (14%) of program storage space. Maximum is 196,608 bytes.
 ```
 
-## Arduino 101 Sketch Upload
+# Arduino 101 Sketch Upload
 
 ```sh
 Sketch uses 29,529 bytes (15%) of program storage space. Maximum is 196,608 bytes.
