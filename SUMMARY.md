@@ -19,6 +19,7 @@
 * [Software](documentation/Software.md)
    * [Arduino IDE](documentation/ArduinoIde.md)
    * [Projects](documentation/Projects.md)
+   * Intel® Curie™ Open Developer Kit (ODK)
 * Subsystems
    * [Power Management](documentation/SubsystemsPowerManagement.md)
 * Wrap-Up
