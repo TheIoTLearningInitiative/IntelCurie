@@ -13,6 +13,7 @@
        * [Intel® Quark™ Microprocessors](documentation/IntelQuarkMicroprocessors.md)
        * [Intel® Quark™ Microcontrollers](documentation/IntelQuarkMicrocontrollers.md)
    * [Peripherals](documentation/Peripherals.md)
+* Platforms
 * [Software](documentation/Software.md)
    * [Arduino IDE](documentation/ArduinoIde.md)
    * [Projects](documentation/Projects.md)
@@ -21,5 +22,4 @@
 * Wrap-Up
    * [Challenge](documentation/Challenge.md)
 * [SandBox](documentation/Sandbox.md)
-* Platforms
 
