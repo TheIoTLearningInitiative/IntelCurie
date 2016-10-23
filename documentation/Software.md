@@ -12,7 +12,10 @@
   - Create a Bluetooth® Low Energy Service
   - Controlling a Direct Current Motor
   - Gesture Recognition Using an Accelerometer and ESP
-
+- Advanced Topics
+  - Designing with the Intel® Curie™ Compute Module in Mind
+  - The Intel® Curie™ Module and the IoT in Health Care
+  - Intel® Quark™ SE Microcontroller C1000 Datasheet
 
 # Intel® Quark™ Microcontroller Software Interface (QMSI)
 
