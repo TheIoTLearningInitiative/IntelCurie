@@ -18,6 +18,7 @@
    * [tinyTILE](documentation/TinyTile.md)
 * [Software](documentation/Software.md)
    * [Intel® Curie™ Open Developer Kit (ODK)](documentation/IntelCurieOpenDeveloperKitOdk.md)
+       * CODK-A
    * [Arduino IDE](documentation/ArduinoIde.md)
    * [Projects](documentation/Projects.md)
 * Subsystems
