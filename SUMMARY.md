@@ -22,6 +22,7 @@
        * [CODK-A](documentation/CodkA.md)
    * [Arduino IDE](documentation/ArduinoIde.md)
    * [Projects](documentation/Projects.md)
+   * Factory Settings
 * Subsystems
    * [Power Management](documentation/SubsystemsPowerManagement.md)
 * Wrap-Up
