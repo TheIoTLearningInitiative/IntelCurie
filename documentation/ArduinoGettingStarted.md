@@ -1,6 +1,6 @@
 # Getting Started
 
-# Arduino 101 Kernel Message Welcoming
+# Kernel Message Welcoming Arduino 101
 
 Arduino 101 board connected to Linux host with USB Cable
 
