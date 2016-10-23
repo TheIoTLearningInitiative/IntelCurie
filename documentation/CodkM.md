@@ -15,4 +15,7 @@ pymelab@workstation:~/CODK$ cd CODK-M/
 
 ```sh
 pymelab@workstation:~/CODK/CODK-M$ make clone
+git clone -b master https://github.com/01org/CODK-A-ARC.git /home/pymelab/CODK/CODK-M//arc
+Clonar en «/home/pymelab/CODK/CODK-M//arc»...
+
 ```
