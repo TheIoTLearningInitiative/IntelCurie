@@ -21,7 +21,7 @@
    * [Factory Settings](documentation/FactorySettings.md)
    * [Intel® Curie™ Open Developer Kit (ODK)](documentation/IntelCurieOpenDeveloperKitOdk.md)
        * [CODK-A](documentation/CodkA.md)
-       * CODK-M
+       * [CODK-M](documentation/CodkM.md)
    * [Arduino IDE](documentation/ArduinoIde.md)
        * [Getting Started](documentation/ArduinoGettingStarted.md)
    * [Projects](documentation/Projects.md)
