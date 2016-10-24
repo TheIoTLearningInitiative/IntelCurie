@@ -1,6 +1,13 @@
 # Blink
 
 ```sh
+pymelab@workstation:~/CODK/CODK-M/x86-samples$ cd Blink/
+pymelab@workstation:~/CODK/CODK-M/x86-samples/Blink$ ls
+Makefile  outdir  prj.conf  prj.mdef  src
+pymelab@workstation:~/CODK/CODK-M/x86-samples/Blink$ 
+```
+
+```sh
 pymelab@workstation:~/CODK/CODK-M/x86-samples/Blink$ sudo dfu-util -a x86_app -D outdir/zephyr.bin 
 sudo: imposible resolver el anfitrión workstation
 dfu-util 0.5
