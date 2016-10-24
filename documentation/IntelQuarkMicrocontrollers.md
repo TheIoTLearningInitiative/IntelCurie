@@ -2,7 +2,9 @@
 
 ## Intel® Quark™ SE Microcontroller C1000
 
-
+> ow Power Intel® Pentium® Processor-based x86, CPU 32 MHz clock, 32-bit bus, 
+Sensor Subsystem, Edge Analytics, USB, 384 kB on-die NVM + 8 kB OTP on-die 
+NVM, Industry Standard I/O Hardware
 
 
 ## Intel® Quark™ Microcontroller D1000
