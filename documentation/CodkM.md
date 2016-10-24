@@ -105,3 +105,10 @@ rm /tmp/codk-m.zip
 make[1]: se sale del directorio «/home/pymelab/CODK/CODK-M/arc»
 pymelab@workstation:~/CODK/CODK-M$ 
 ```
+
+```sh
+pymelab@workstation:~/CODK/CODK-M$ export CODK_DIR=$(pwd)
+pymelab@workstation:~/CODK/CODK-M$ source ../zephyr/zephyr-env.sh
+pymelab@workstation:~/CODK/CODK-M$ 
+```
+
