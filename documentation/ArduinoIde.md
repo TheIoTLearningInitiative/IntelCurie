@@ -1,5 +1,7 @@
 # Arduino IDE
 
+Download
+
 ```sh
 user@workstation:~/Downloads/arduino-1.6.12$ sudo ./install.sh
 ```
