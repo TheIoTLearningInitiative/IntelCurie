@@ -1,6 +1,6 @@
 # Intel® Quark™ Microcontrollers
 
-## Intel® Quark™ SE Microcontroller C1000
+# Intel® Quark™ SE Microcontroller C1000
 
 > Low Power Intel® Pentium® Processor-based x86, CPU 32 MHz clock, 32-bit bus, 
 Sensor Subsystem, Edge Analytics, USB, 384 kB on-die NVM + 8 kB OTP on-die 
@@ -8,7 +8,7 @@ NVM, Industry Standard I/O Hardware
 
 
 
-## Intel® Quark™ Microcontroller D1000
+# Intel® Quark™ Microcontroller D1000
 
 > Formerly Silver Butte
 
@@ -18,7 +18,7 @@ NVM, Industry Standard I/O Hardware
 - [Intel® Quark™ Microcontroller D1000 Product Brief](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/d1000/quark-d1000-product-brief.html)
 - [Intel® Quark™ Microcontroller D1000 Datasheet](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu-d1000/quark-d1000-datasheet.html)
 
-## Intel® Quark™ Microcontroller D2000
+# Intel® Quark™ Microcontroller D2000
 
 > Formerly Mint Valley
 
@@ -28,7 +28,7 @@ NVM, Industry Standard I/O Hardware
 - [Intel® Quark™ D2000 Microcontroller Product Brief](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/d2000/quark-d2000-product-brief.html)
 - [Intel® Quark™ D2000 Microcontroller Datasheet](http://www.intel.com/content/www/us/en/secure/embedded/nda/products/quark/mcu/quark-d2000-datasheet.html)
 
-## Intel® Quark™ SE Microcontroller
+# Intel® Quark™ SE Microcontroller
 
 > Formerly Atlas Peak
 
