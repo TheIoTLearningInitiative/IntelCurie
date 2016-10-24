@@ -3,6 +3,8 @@
 ## Intel® Quark™ Microcontroller C1000
 
 
+
+
 ## Intel® Quark™ Microcontroller D1000
 
 > Formerly Silver Butte
