@@ -8,6 +8,10 @@ pymelab@workstation:~/CODK/CODK-M/x86-samples/Blink$
 ```
 
 ```sh
+
+```
+
+```sh
 pymelab@workstation:~/CODK/CODK-M/x86-samples/Blink$ sudo dfu-util -a x86_app -D outdir/zephyr.bin 
 sudo: imposible resolver el anfitrión workstation
 dfu-util 0.5
