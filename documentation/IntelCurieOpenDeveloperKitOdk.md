@@ -17,6 +17,12 @@ Function Specific Libraries
 Intel® Curie™ Open Developer Kit (ODK)
 
 - Open Software Development Kit
+  - Installing and Using the A Tree
+  - Installing and Using the M Tree
+  - Installing and Using the Z Tree
+  - Connecting and Verifying the Board Proof of Life
+  - Function-specific Libraries
+  - Appendix
 - Hardware
   - Intel Curie Module
   - Arduino 101 Board
@@ -26,6 +32,25 @@ Intel® Curie™ Open Developer Kit (ODK)
  - Tutorials
  - Troubleshooting and Frequently Asked Questions (FAQs)
  - References
+
+
+
+    Hardware
+    Tools
+    Documentation
+    Tutorials
+    Troubleshooting and Frequently Asked Questions (FAQs)
+    References
+
+Hardware
+
+By Anne Catherine B. (Intel), Added Thu, 08/11/2016 - 12:04
+
+This section presents information about the hardware part of Intel Curie Open Developer Kit (ODK):
+
+    Intel Curie module
+    Arduino 10 board
+    tinyTILE board
 
 
 
