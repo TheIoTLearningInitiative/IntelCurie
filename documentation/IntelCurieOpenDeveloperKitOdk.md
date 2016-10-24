@@ -22,6 +22,8 @@ Function Specific Libraries
   - Installing and Using the Z Tree
   - Connecting and Verifying the Board Proof of Life
   - Function-specific Libraries
+    - Intel® Pattern Matching Engine
+    - Curie Mailbox Library
   - Appendix
 - Hardware
   - Intel Curie Module
