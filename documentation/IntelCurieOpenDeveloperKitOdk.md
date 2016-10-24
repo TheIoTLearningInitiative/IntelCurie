@@ -31,6 +31,8 @@ Function Specific Libraries
   - tinyTILE Board
  - Tools
    - Software developer tools
+     - Sketch Converter
+     - JTAG Debugger 
    - Manufacturing and certification tools
  - Documentation
  - Tutorials
