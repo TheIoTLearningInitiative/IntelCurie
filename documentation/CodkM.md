@@ -113,5 +113,7 @@ pymelab@workstation:~/CODK/CODK-M$
 ```
 
 ```sh
+pymelab@workstation:~/CODK/CODK-M$ make compile-x86
+pymelab@workstation:~/CODK/CODK-M$ make compile-arc
 pymelab@workstation:~/CODK/CODK-M$ make compile
 ```
