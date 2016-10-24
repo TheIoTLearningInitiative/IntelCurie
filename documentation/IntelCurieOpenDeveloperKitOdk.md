@@ -8,3 +8,8 @@
 > > - The A Tree provides access to Arduino 101 firmware and Arduino core libraries and tools. The A tree is available at [CODK-A Github](https://github.com/01org/CODK-A)
 > > - The M tree is a mix of the A and Z trees. The firmware based on Zephyr* runs on the Intel® Quark™ processor core, and the user code with Arduino class libraries runs on the ARC EM core. The M tree is available at [CODK-M Github](https://github.com/01org/CODK-M)
 > > - The Z tree is the version of Zephyr firmware that targets Arduino 101 as host core. The Z tree is available at [CODK-Z Github](https://github.com/01org/CODK-Z)
+
+Function Specific Libraries
+
+- Intel® Pattern Matching Engine
+- 
