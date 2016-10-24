@@ -14,7 +14,7 @@ Function Specific Libraries
 - Intel® Pattern Matching Engine
 - Curie Mailbox Library
 
-Intel® Curie™ Open Developer Kit (ODK)
+[Intel® Curie™ Open Developer Kit (ODK)](https://software.intel.com/en-us/node/674972)
 
 - Open Software Development Kit
   - Installing and Using the A Tree
