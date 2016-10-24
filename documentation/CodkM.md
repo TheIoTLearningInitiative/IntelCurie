@@ -160,5 +160,15 @@ dfu-util: can't detach
 Resetting USB to switch back to runtime mode
 dfu-util: error resetting after download
 make: *** [upload-x86-dfu] Error 74
-pymelab@workstation:~/CODK/CODK-M$ A
+pymelab@workstation:~/CODK/CODK-M$ 
+```
+
+```sh
+pymelab@workstation:~/CODK/CODK-M$ ls
+arc  flashpack  LICENSE  Makefile  out  README.md  x86  x86-samples
+pymelab@workstation:~/CODK/CODK-M$ cd x86-samples/
+pymelab@workstation:~/CODK/CODK-M/x86-samples$ ls
+Blank  common              CurieMailbox_SharedCounter  PinInterrupts  SMC
+Blink  create_symlinks.sh  CurieMailbox_String         PWM_Fade
+pymelab@workstation:~/CODK/CODK-M/x86-samples$ 
 ```
