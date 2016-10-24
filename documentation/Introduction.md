@@ -24,12 +24,12 @@ It keeps the same robust form factor and peripheral list of the UNO with the add
 - [Intel® Curie™ Fact Sheet](http://www.intel.com/content/www/us/en/wearables/intel-curie-fact-sheet.html)
 - [Fun with the Arduino 101](https://software.intel.com/en-us/articles/fun-with-the-arduino-101-genuino-101)
 - [Ardiri Internet of Things (IoT) Intel Arduino](http://ardiri.com/blog/intel_and_arduino_team_up_to_bring_arduino_101)
-- Intel® Curie™ Module Datasheet
-- Intel® Curie™ Module Design Guide
-- Intel® Quark™ SE Microcontroller C1000 datasheet
-- Intel® Curie™ Modules Support Page
-- Intel® Curie™ Module Developer Page
-- Arduino 101 Board Schematics
-- Arduino 101 CAD Files
+- [Intel® Curie™ Module Datasheet
+- [Intel® Curie™ Module Design Guide
+- [Intel® Quark™ SE Microcontroller C1000 datasheet
+- [Intel® Curie™ Modules Support Page
+- [Intel® Curie™ Module Developer Page
+- [Arduino 101 Board Schematics
+- [Arduino 101 CAD Files](https://www.arduino.cc/en/uploads/Main/Arduino101RefDesign.zip)
 - tinyTILE Quick Start Guide
 - tinyTILE Board Schematics and CAD Files
