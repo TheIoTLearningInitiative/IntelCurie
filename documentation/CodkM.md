@@ -90,5 +90,18 @@ Downloading Arduino IDE
 cd /tmp; curl -OL https://github.com/arduino/Arduino/archive/1.6.9.zip
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-
+...
+...
+   creating: /home/pymelab/CODK/CODK-M/arc/corelibs-arduino101-codk-m/variants/
+   creating: /home/pymelab/CODK/CODK-M/arc/corelibs-arduino101-codk-m/variants/arduino_101/
+  inflating: /home/pymelab/CODK/CODK-M/arc/corelibs-arduino101-codk-m/variants/arduino_101/libarc32drv_arduino101.a  
+   creating: /home/pymelab/CODK/CODK-M/arc/corelibs-arduino101-codk-m/variants/arduino_101/linker_scripts/
+  inflating: /home/pymelab/CODK/CODK-M/arc/corelibs-arduino101-codk-m/variants/arduino_101/linker_scripts/flash.ld  
+  inflating: /home/pymelab/CODK/CODK-M/arc/corelibs-arduino101-codk-m/variants/arduino_101/pins_arduino.h  
+  inflating: /home/pymelab/CODK/CODK-M/arc/corelibs-arduino101-codk-m/variants/arduino_101/variant.cpp  
+  inflating: /home/pymelab/CODK/CODK-M/arc/corelibs-arduino101-codk-m/variants/arduino_101/variant.h  
+mv /home/pymelab/CODK/CODK-M/arc//corelibs-* /home/pymelab/CODK/CODK-M/arc//corelibs
+rm /tmp/codk-m.zip
+make[1]: se sale del directorio «/home/pymelab/CODK/CODK-M/arc»
+pymelab@workstation:~/CODK/CODK-M$ 
 ```
