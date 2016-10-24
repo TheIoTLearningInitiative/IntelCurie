@@ -112,3 +112,6 @@ pymelab@workstation:~/CODK/CODK-M$ source ../zephyr/zephyr-env.sh
 pymelab@workstation:~/CODK/CODK-M$ 
 ```
 
+```sh
+pymelab@workstation:~/CODK/CODK-M$ make compile
+```
