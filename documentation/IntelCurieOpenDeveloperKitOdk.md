@@ -45,5 +45,6 @@ Function Specific Libraries
    - tinyTILE Quick Start Guide
    - tinyTILE Board Schematics and CAD Files
  - Tutorials
+   - Tutorial 1 - Message Passing  
  - Troubleshooting and Frequently Asked Questions (FAQs)
  - References
