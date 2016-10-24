@@ -28,6 +28,9 @@ Intel® Curie™ Open Developer Kit (ODK)
   - Arduino 101 Board
   - tinyTILE Board
  - Tools
+   - Software developer tools
+   - Manufacturing and certification tools
+
  - Documentation
  - Tutorials
  - Troubleshooting and Frequently Asked Questions (FAQs)
