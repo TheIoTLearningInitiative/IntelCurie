@@ -82,5 +82,13 @@ Downloading ARC Toolchain
 cd /tmp; curl -OL https://downloadmirror.intel.com/25470/eng/arc-toolchain-linux64-arcem-1.0.1.tar.bz2
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
+100  123M  100  123M    0     0   745k      0  0:02:49  0:02:49 --:--:-- 1008k
+Unpacking ARC Toolchain
+tar xf /tmp/arc-toolchain-linux64-arcem-1.0.1.tar.bz2 -C /home/pymelab/CODK/CODK-M/arc/
+rm /tmp/arc-toolchain-linux64-arcem-1.0.1.tar.bz2
+Downloading Arduino IDE
+cd /tmp; curl -OL https://github.com/arduino/Arduino/archive/1.6.9.zip
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
 
 ```
