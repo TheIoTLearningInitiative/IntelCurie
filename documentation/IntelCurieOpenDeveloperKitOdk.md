@@ -35,6 +35,15 @@ Function Specific Libraries
      - JTAG Debugger 
    - Manufacturing and certification tools
  - Documentation
+   - Intel® Curie™ Module Datasheet
+   - Intel® Curie™ Module Design Guide
+   - Intel® Quark™ SE Microcontroller C1000 datasheet
+   - Intel® Curie™ Modules Support Page
+   - Intel® Curie™ Module Developer Page
+   - Arduino 101 Board Schematics
+   - Arduino 101 CAD Files
+   - tinyTILE Quick Start Guide
+   - tinyTILE Board Schematics and CAD Files
  - Tutorials
  - Troubleshooting and Frequently Asked Questions (FAQs)
  - References
