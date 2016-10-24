@@ -59,5 +59,28 @@ nstalling Zephyr to /home/pymelab/CODK/zephyr
 Downloading Zephyr SDK
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
+100  362M  100  362M    0     0   402k      0  0:15:20  0:15:20 --:--:--  554kc 
+Installing Zephyr SDK to /home/pymelab/CODK/zephyr-sdk
+Verifying archive integrity... All good.
+Uncompressing SDK for Zephyr  100%  
+Installing SDK to /home/pymelab/CODK/zephyr-sdk
+Creating directory /home/pymelab/CODK/zephyr-sdk
+Success
+ [*] Installing x86 tools... 
+ [*] Installing arm tools... 
+ [*] Installing arc tools... 
+ [*] Installing iamcu tools... 
+ [*] Installing mips tools... 
+ [*] Installing nios2 tools... 
+ [*] Installing additional host tools... 
+Success installing SDK. SDK is ready to be used.
+Setting options in ~/.zephyrrc
+Please run: source /home/pymelab/CODK/zephyr/zephyr-env.sh
+Setting up ARC Firmware
+make[1]: se ingresa al directorio «/home/pymelab/CODK/CODK-M/arc»
+Downloading ARC Toolchain
+cd /tmp; curl -OL https://downloadmirror.intel.com/25470/eng/arc-toolchain-linux64-arcem-1.0.1.tar.bz2
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
 
 ```
