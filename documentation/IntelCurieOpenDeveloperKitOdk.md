@@ -12,4 +12,4 @@
 Function Specific Libraries
 
 - Intel® Pattern Matching Engine
-- 
+- Curie Mailbox Library
