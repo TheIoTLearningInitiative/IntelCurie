@@ -22,6 +22,7 @@
    * [Intel® Curie™ Open Developer Kit (ODK)](documentation/IntelCurieOpenDeveloperKitOdk.md)
        * [CODK-A](documentation/CodkA.md)
        * [CODK-M](documentation/CodkM.md)
+           * Blink
    * [Arduino IDE](documentation/ArduinoIde.md)
        * [Getting Started](documentation/ArduinoGettingStarted.md)
    * [Projects](documentation/Projects.md)
