@@ -255,3 +255,26 @@ state(2) = dfuIDLE, status(0) = No error condition is present
 Done!
 pymelab@workstation:~/CODK/CODK-M/x86-samples/Blink$ 
 ```
+
+```c
+#include <zephyr.h>
+#include "arduino101_services/arduino101_services.h"
+#include "arduino/arduino.h"
+
+void main (void)
+{
+        //setup
+        int pin = 13;
+        pinMode(pin, OUTPUT);
+
+        //loop
+        while(1) {
+                pinMode(pin, OUTPUT);
+                digitalWrite(pin, HIGH);
+                delay(500);
+                digitalWrite(pin, LOW);
+                delay(500);
+                task_yield();
+        }
+}
+```
