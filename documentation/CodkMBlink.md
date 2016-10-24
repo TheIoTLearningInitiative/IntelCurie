@@ -8,15 +8,7 @@ pymelab@workstation:~/CODK/CODK-M/x86-samples/Blink$
 ```
 
 ```sh
-pymelab@workstation:~/CODK/CODK-M/x86-samples/Blink/src$ ls -als
-total 20
-4 drwxrwxr-x 2 pymelab pymelab 4096 oct 23 18:55 .
-4 drwxrwxr-x 4 pymelab pymelab 4096 oct 23 19:43 ..
-0 lrwxrwxrwx 1 pymelab pymelab   52 oct 23 18:55 arduino -> /home/pymelab/CODK/CODK-M/x86-samples/common/arduino
-4 lrwxrwxrwx 1 pymelab pymelab   64 oct 23 18:55 arduino101_services -> /home/pymelab/CODK/CODK-M/x86-samples/common/arduino101_services
-4 -rw-rw-r-- 1 pymelab pymelab  922 oct 23 18:55 blink.c
-4 -rw-rw-r-- 1 pymelab pymelab   65 oct 23 18:55 Makefile
-pymelab@workstation:~/CODK/CODK-M/x86-samples/Blink/src$ 
+
 ```
 
 ```sh
