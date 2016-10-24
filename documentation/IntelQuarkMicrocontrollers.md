@@ -1,6 +1,6 @@
 # Intel® Quark™ Microcontrollers
 
-## Intel® Quark™ Microcontroller C1000
+## Intel® Quark™ SE Microcontroller C1000
 
 
 
