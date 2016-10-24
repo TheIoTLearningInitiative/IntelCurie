@@ -26,7 +26,7 @@ It keeps the same robust form factor and peripheral list of the UNO with the add
 - [Ardiri Internet of Things (IoT) Intel Arduino](http://ardiri.com/blog/intel_and_arduino_team_up_to_bring_arduino_101)
 - [Intel® Curie™ Module Datasheet
 - [Intel® Curie™ Module Design Guide
-- [Intel® Quark™ SE Microcontroller C1000 datasheet
+- [Intel® Quark™ SE Microcontroller C1000 datasheet](http://www.intel.com/content/www/us/en/embedded/products/quark/mcu/se-soc/quark-c1000-datasheet.html)
 - [Intel® Curie™ Modules Support Page](http://www.intel.com/content/www/us/en/support/boards-and-kits/intel-curie-modules.html)
 - [Intel® Curie™ Module Developer Page](https://software.intel.com/en-us/iot/hardware/curie)
 - [Arduino 101 Board Schematics](https://www.arduino.cc/en/uploads/Main/Arduino101-REV4Schematic.pdf)
