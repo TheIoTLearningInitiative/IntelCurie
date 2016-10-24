@@ -27,5 +27,5 @@ Copying data from PC to DFU device
 Starting download: [##################################################] finished!
 state(2) = dfuIDLE, status(0) = No error condition is present
 Done!
-
+pymelab@workstation:~/CODK/CODK-M/x86-samples/Blink$ 
 ```
