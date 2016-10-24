@@ -123,3 +123,42 @@ pymelab@workstation:~/CODK/CODK-M$ make upload-x86
 pymelab@workstation:~/CODK/CODK-M$ make upload-arc
 pymelab@workstation:~/CODK/CODK-M$ make upload
 ```
+
+```sh
+pymelab@workstation:~/CODK/CODK-M$ sudo make upload
+sudo: imposible resolver el anfitrión workstation
+[sudo] password for pymelab: 
+/home/pymelab/CODK/CODK-M//flashpack/flash_dfu.sh -x /home/pymelab/CODK/CODK-M//out/x86/zephyr.bin
+*** Reset the board to begin download...
+
+
+
+dfu-util 0.8
+
+Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
+Copyright 2010-2014 Tormod Volden and Stefan Schmidt
+This program is Free Software and has ABSOLUTELY NO WARRANTY
+Please report bugs to dfu-util@lists.gnumonks.org
+
+dfu-util: Invalid DFU suffix signature
+dfu-util: A valid DFU suffix will be required in a future dfu-util release!!!
+Opening DFU capable USB device...
+ID 8087:0aba
+Run-time device DFU version 0011
+Claiming USB DFU Interface...
+Setting Alternate Setting #2 ...
+Determining device status: state = dfuIDLE, status = 0
+dfuIDLE, continuing
+DFU mode device DFU version 0011
+Device returned transfer size 2048
+Copying data from PC to DFU device
+Download	[=========================] 100%        47104 bytes
+Download done.
+state(2) = dfuIDLE, status(0) = No error condition is present
+Done!
+dfu-util: can't detach
+Resetting USB to switch back to runtime mode
+dfu-util: error resetting after download
+make: *** [upload-x86-dfu] Error 74
+pymelab@workstation:~/CODK/CODK-M$ A
+```
