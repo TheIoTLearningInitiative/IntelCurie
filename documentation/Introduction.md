@@ -29,7 +29,7 @@ It keeps the same robust form factor and peripheral list of the UNO with the add
 - [Intel® Quark™ SE Microcontroller C1000 datasheet
 - [Intel® Curie™ Modules Support Page
 - [Intel® Curie™ Module Developer Page
-- [Arduino 101 Board Schematics
+- [Arduino 101 Board Schematics](https://www.arduino.cc/en/uploads/Main/Arduino101-REV4Schematic.pdf)
 - [Arduino 101 CAD Files](https://www.arduino.cc/en/uploads/Main/Arduino101RefDesign.zip)
 - tinyTILE Quick Start Guide
 - tinyTILE Board Schematics and CAD Files
