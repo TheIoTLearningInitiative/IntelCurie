@@ -30,7 +30,6 @@ Intel® Curie™ Open Developer Kit (ODK)
  - Tools
    - Software developer tools
    - Manufacturing and certification tools
-
  - Documentation
  - Tutorials
  - Troubleshooting and Frequently Asked Questions (FAQs)
