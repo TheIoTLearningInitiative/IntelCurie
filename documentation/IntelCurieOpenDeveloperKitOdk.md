@@ -13,3 +13,9 @@ Function Specific Libraries
 
 - Intel® Pattern Matching Engine
 - Curie Mailbox Library
+
+Intel® Curie™ Open Developer Kit (ODK)
+
+- 
+
+
