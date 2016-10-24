@@ -16,6 +16,17 @@ Function Specific Libraries
 
 Intel® Curie™ Open Developer Kit (ODK)
 
-- 
+- Open Software Development Kit
+- Hardware
+  - Intel Curie Module
+  - Arduino 101 Board
+  - tinyTILE Board
+ - Tools
+ - Documentation
+ - Tutorials
+ - Troubleshooting and Frequently Asked Questions (FAQs)
+ - References
+
+
 
 
