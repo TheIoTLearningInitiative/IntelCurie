@@ -4,7 +4,7 @@ From [Arduino/Genuino 101 CurieBLE Heart Rate Monitor](https://www.arduino.cc/en
 
 Requirements
 
-- nRF Toolbox for BLE Android App 
+- nRF Toolbox for BLE Android iOS App 
 
 ```sh
 /*
