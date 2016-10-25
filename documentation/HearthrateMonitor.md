@@ -97,7 +97,7 @@ void updateHeartRate() {
   /* Read the current voltage level on the A0 analog input pin.
      This is used here to simulate the heart rate's measurement.
   */
-  int heartRateMeasurement = random(0,255);
+  int heartRateMeasurement = random(0,65525);
   int heartRate = map(heartRateMeasurement, 0, 1023, 0, 100);
   if (heartRate != oldHeartRate) {      // if the heart rate has changed
     Serial.print("Heart Rate is now: "); // print it
