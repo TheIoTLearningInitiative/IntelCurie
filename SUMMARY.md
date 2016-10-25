@@ -26,7 +26,7 @@
    * [Arduino IDE](documentation/ArduinoIde.md)
        * [Getting Started](documentation/ArduinoGettingStarted.md)
        * Applications
-           * [Hearthrate Monitor](documentation/HearthrateMonitor.md)
+           * [Hearthrate Monitor App](documentation/HearthrateMonitor.md)
            * [Battery Monitor](documentation/BatteryMonitor.md)
    * [Projects](documentation/Projects.md)
 * Subsystems
