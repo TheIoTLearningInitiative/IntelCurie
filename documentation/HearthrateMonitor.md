@@ -7,7 +7,7 @@ Additional
 
 Requirements
 
-- nRF Toolbox for BLE Android iOS App 
+- nRF Toolbox for BLE for Android/iOS App 
 
 ```sh
 /*
