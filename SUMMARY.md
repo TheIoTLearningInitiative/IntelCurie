@@ -27,7 +27,7 @@
        * [Getting Started](documentation/ArduinoGettingStarted.md)
        * Applications
            * [Hearthrate Monitor App](documentation/HearthrateMonitor.md)
-           * [Battery Monitor](documentation/BatteryMonitor.md)
+           * [Battery Monitor App](documentation/BatteryMonitor.md)
    * [Projects](documentation/Projects.md)
 * Subsystems
    * [Power Management](documentation/SubsystemsPowerManagement.md)
