@@ -1,5 +1,7 @@
 # HearthRate
 
+From [Arduino/Genuino 101 CurieBLE Heart Rate Monitor](https://www.arduino.cc/en/Tutorial/Genuino101CurieBLEHeartRateMonitor)
+
 ```sh
 /*
    Copyright (c) 2015 Intel Corporation.  All rights reserved.
