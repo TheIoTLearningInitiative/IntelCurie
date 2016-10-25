@@ -28,6 +28,7 @@
        * Applications
            * [Hearthrate Monitor App](documentation/HearthrateMonitor.md)
            * [Battery Monitor App](documentation/BatteryMonitor.md)
+           * Led Service Linux
    * [Projects](documentation/Projects.md)
 * Subsystems
    * [Power Management](documentation/SubsystemsPowerManagement.md)
