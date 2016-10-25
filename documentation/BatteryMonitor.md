@@ -4,7 +4,7 @@ From [Arduino/Genuino 101 CurieBLE Battery Monitor](https://www.arduino.cc/en/Tu
 
 Requirements
 
-- nRF Toolbox for BLE Android iOS App 
+- nRF Master Control Panel (BLE) for Android/iOS App 
 
 ```c
 /*
