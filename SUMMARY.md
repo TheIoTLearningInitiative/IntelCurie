@@ -26,6 +26,7 @@
    * [Arduino IDE](documentation/ArduinoIde.md)
        * [Getting Started](documentation/ArduinoGettingStarted.md)
        * Applications
+           * HearthRate
    * [Projects](documentation/Projects.md)
 * Subsystems
    * [Power Management](documentation/SubsystemsPowerManagement.md)
