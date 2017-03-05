@@ -35,7 +35,8 @@
 * Subsystems
   * [Power Management](documentation/SubsystemsPowerManagement.md)
   * [DSP](Dsp.md)
+* [Laboratory](documentation/Laboratory.md)
 * Wrap-Up
   * [Challenge](documentation/Challenge.md)
-* [SandBox](documentation/Sandbox.md)
+* Laboratory
 
